@@ -1,0 +1,2430 @@
+﻿1,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+2,Active Quest,user is a primary or participating quester
+3,ADHD ,diagnosed with ADHD or suspects ADHD
+4,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+5,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+6,Clinical Anxiety,"for preclinical, go to stress
+"
+7,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+8,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+9,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+10,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+11,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+12,Bored,"no purpose, nothing to do
+"
+13,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+14,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+15,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+16,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+17,Build wealth,"want to make more money, save money, invest money"
+18,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+19,Hyperactivity/Inattention,Pre-ADHD diagnosis
+20,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+21,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+22,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+23,Poor Mental Health,Pre-diagnosis
+24,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+25,Parenting Stress,"struggling with connecting with kids and discipline
+"
+26,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+27,Personal Care and Hygiene,skills related to taking care of oneself
+28,Declining physical health,want to get healthier. general health problems.   no series illnesses
+29,Resilience,"giving up too quickly or easily, can't bounce back"
+30,Self-Regulation and Coping,"""overreacting"" "
+31,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+32,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+33,Trauma,"emotional abuse, need help setting boundaries"
+34,Stress,general stress management
+35,Debt,trying to get rid of debt and save more
+36,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+37,Eating Disorder,"anorexia, bulimia, binge eating"
+38,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+39,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+40,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+41,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+42,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+43,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+44,FBA,working with an ABA agency or school on obtaining an FBA
+45,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+46,Suicidal Ideations,having thoughts about suicide or dying
+47,Suicide Risk,action plans made for suicide and need external support
+48,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+49,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+50,No Friends,"user wants to make friends
+"
+51,SPED caregiver,burnout and stress from caring for high needs family members
+52,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+53,Loneliness,"having no friends, feel like they have no one to talk to "
+54,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+55,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+56,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+57,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+58,Hoarding,
+59,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+60,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+61,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+62,Sportmanship,"sore loser, too competitive"
+63,General Intake,
+64,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+65,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+66,Child abuse,need to heal from trauma from past event(s) in childhood
+67,Incarcerated parent,"one or both parents are in jail or prison
+"
+68,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+69,ESL,ESL
+70,unhappy with coach,unhappy with coach
+71,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+72,Active Quest,user is a primary or participating quester
+73,ADHD ,diagnosed with ADHD or suspects ADHD
+74,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+75,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+76,Clinical Anxiety,"for preclinical, go to stress
+"
+77,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+78,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+79,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+80,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+81,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+82,Bored,"no purpose, nothing to do
+"
+83,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+84,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+85,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+86,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+87,Build wealth,"want to make more money, save money, invest money"
+88,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+89,Hyperactivity/Inattention,Pre-ADHD diagnosis
+90,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+91,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+92,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+93,Poor Mental Health,Pre-diagnosis
+94,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+95,Parenting Stress,"struggling with connecting with kids and discipline
+"
+96,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+97,Personal Care and Hygiene,skills related to taking care of oneself
+98,Declining physical health,want to get healthier. general health problems.   no series illnesses
+99,Resilience,"giving up too quickly or easily, can't bounce back"
+100,Self-Regulation and Coping,"""overreacting"" "
+101,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+102,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+103,Trauma,"emotional abuse, need help setting boundaries"
+104,Stress,general stress management
+105,Debt,trying to get rid of debt and save more
+106,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+107,Eating Disorder,"anorexia, bulimia, binge eating"
+108,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+109,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+110,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+111,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+112,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+113,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+114,FBA,working with an ABA agency or school on obtaining an FBA
+115,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+116,Suicidal Ideations,having thoughts about suicide or dying
+117,Suicide Risk,action plans made for suicide and need external support
+118,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+119,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+120,No Friends,"user wants to make friends
+"
+121,SPED caregiver,burnout and stress from caring for high needs family members
+122,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+123,Loneliness,"having no friends, feel like they have no one to talk to "
+124,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+125,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+126,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+127,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+128,Hoarding,
+129,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+130,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+131,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+132,Sportmanship,"sore loser, too competitive"
+133,General Intake,
+134,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+135,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+136,Child abuse,need to heal from trauma from past event(s) in childhood
+137,Incarcerated parent,"one or both parents are in jail or prison
+"
+138,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+139,ESL,ESL
+140,unhappy with coach,unhappy with coach
+141,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+142,Active Quest,user is a primary or participating quester
+143,ADHD ,diagnosed with ADHD or suspects ADHD
+144,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+145,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+146,Clinical Anxiety,"for preclinical, go to stress
+"
+147,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+148,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+149,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+150,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+151,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+152,Bored,"no purpose, nothing to do
+"
+153,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+154,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+155,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+156,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+157,Build wealth,"want to make more money, save money, invest money"
+158,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+159,Hyperactivity/Inattention,Pre-ADHD diagnosis
+160,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+161,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+162,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+163,Poor Mental Health,Pre-diagnosis
+164,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+165,Parenting Stress,"struggling with connecting with kids and discipline
+"
+166,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+167,Personal Care and Hygiene,skills related to taking care of oneself
+168,Declining physical health,want to get healthier. general health problems.   no series illnesses
+169,Resilience,"giving up too quickly or easily, can't bounce back"
+170,Self-Regulation and Coping,"""overreacting"" "
+171,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+172,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+173,Trauma,"emotional abuse, need help setting boundaries"
+174,Stress,general stress management
+175,Debt,trying to get rid of debt and save more
+176,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+177,Eating Disorder,"anorexia, bulimia, binge eating"
+178,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+179,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+180,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+181,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+182,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+183,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+184,FBA,working with an ABA agency or school on obtaining an FBA
+185,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+186,Suicidal Ideations,having thoughts about suicide or dying
+187,Suicide Risk,action plans made for suicide and need external support
+188,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+189,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+190,No Friends,"user wants to make friends
+"
+191,SPED caregiver,burnout and stress from caring for high needs family members
+192,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+193,Loneliness,"having no friends, feel like they have no one to talk to "
+194,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+195,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+196,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+197,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+198,Hoarding,
+199,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+200,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+201,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+202,Sportmanship,"sore loser, too competitive"
+203,General Intake,
+204,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+205,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+206,Child abuse,need to heal from trauma from past event(s) in childhood
+207,Incarcerated parent,"one or both parents are in jail or prison
+"
+208,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+209,ESL,ESL
+210,unhappy with coach,unhappy with coach
+211,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+212,Active Quest,user is a primary or participating quester
+213,ADHD ,diagnosed with ADHD or suspects ADHD
+214,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+215,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+216,Clinical Anxiety,"for preclinical, go to stress
+"
+217,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+218,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+219,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+220,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+221,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+222,Bored,"no purpose, nothing to do
+"
+223,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+224,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+225,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+226,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+227,Build wealth,"want to make more money, save money, invest money"
+228,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+229,Hyperactivity/Inattention,Pre-ADHD diagnosis
+230,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+231,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+232,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+233,Poor Mental Health,Pre-diagnosis
+234,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+235,Parenting Stress,"struggling with connecting with kids and discipline
+"
+236,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+237,Personal Care and Hygiene,skills related to taking care of oneself
+238,Declining physical health,want to get healthier. general health problems.   no series illnesses
+239,Resilience,"giving up too quickly or easily, can't bounce back"
+240,Self-Regulation and Coping,"""overreacting"" "
+241,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+242,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+243,Trauma,"emotional abuse, need help setting boundaries"
+244,Stress,general stress management
+245,Debt,trying to get rid of debt and save more
+246,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+247,Eating Disorder,"anorexia, bulimia, binge eating"
+248,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+249,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+250,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+251,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+252,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+253,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+254,FBA,working with an ABA agency or school on obtaining an FBA
+255,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+256,Suicidal Ideations,having thoughts about suicide or dying
+257,Suicide Risk,action plans made for suicide and need external support
+258,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+259,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+260,No Friends,"user wants to make friends
+"
+261,SPED caregiver,burnout and stress from caring for high needs family members
+262,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+263,Loneliness,"having no friends, feel like they have no one to talk to "
+264,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+265,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+266,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+267,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+268,Hoarding,
+269,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+270,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+271,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+272,Sportmanship,"sore loser, too competitive"
+273,General Intake,
+274,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+275,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+276,Child abuse,need to heal from trauma from past event(s) in childhood
+277,Incarcerated parent,"one or both parents are in jail or prison
+"
+278,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+279,ESL,ESL
+280,unhappy with coach,unhappy with coach
+281,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+282,Active Quest,user is a primary or participating quester
+283,ADHD ,diagnosed with ADHD or suspects ADHD
+284,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+285,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+286,Clinical Anxiety,"for preclinical, go to stress
+"
+287,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+288,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+289,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+290,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+291,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+292,Bored,"no purpose, nothing to do
+"
+293,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+294,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+295,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+296,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+297,Build wealth,"want to make more money, save money, invest money"
+298,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+299,Hyperactivity/Inattention,Pre-ADHD diagnosis
+300,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+301,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+302,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+303,Poor Mental Health,Pre-diagnosis
+304,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+305,Parenting Stress,"struggling with connecting with kids and discipline
+"
+306,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+307,Personal Care and Hygiene,skills related to taking care of oneself
+308,Declining physical health,want to get healthier. general health problems.   no series illnesses
+309,Resilience,"giving up too quickly or easily, can't bounce back"
+310,Self-Regulation and Coping,"""overreacting"" "
+311,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+312,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+313,Trauma,"emotional abuse, need help setting boundaries"
+314,Stress,general stress management
+315,Debt,trying to get rid of debt and save more
+316,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+317,Eating Disorder,"anorexia, bulimia, binge eating"
+318,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+319,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+320,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+321,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+322,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+323,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+324,FBA,working with an ABA agency or school on obtaining an FBA
+325,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+326,Suicidal Ideations,having thoughts about suicide or dying
+327,Suicide Risk,action plans made for suicide and need external support
+328,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+329,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+330,No Friends,"user wants to make friends
+"
+331,SPED caregiver,burnout and stress from caring for high needs family members
+332,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+333,Loneliness,"having no friends, feel like they have no one to talk to "
+334,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+335,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+336,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+337,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+338,Hoarding,
+339,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+340,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+341,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+342,Sportmanship,"sore loser, too competitive"
+343,General Intake,
+344,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+345,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+346,Child abuse,need to heal from trauma from past event(s) in childhood
+347,Incarcerated parent,"one or both parents are in jail or prison
+"
+348,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+349,ESL,ESL
+350,unhappy with coach,unhappy with coach
+351,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+352,Active Quest,user is a primary or participating quester
+353,ADHD ,diagnosed with ADHD or suspects ADHD
+354,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+355,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+356,Clinical Anxiety,"for preclinical, go to stress
+"
+357,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+358,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+359,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+360,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+361,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+362,Bored,"no purpose, nothing to do
+"
+363,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+364,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+365,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+366,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+367,Build wealth,"want to make more money, save money, invest money"
+368,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+369,Hyperactivity/Inattention,Pre-ADHD diagnosis
+370,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+371,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+372,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+373,Poor Mental Health,Pre-diagnosis
+374,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+375,Parenting Stress,"struggling with connecting with kids and discipline
+"
+376,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+377,Personal Care and Hygiene,skills related to taking care of oneself
+378,Declining physical health,want to get healthier. general health problems.   no series illnesses
+379,Resilience,"giving up too quickly or easily, can't bounce back"
+380,Self-Regulation and Coping,"""overreacting"" "
+381,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+382,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+383,Trauma,"emotional abuse, need help setting boundaries"
+384,Stress,general stress management
+385,Debt,trying to get rid of debt and save more
+386,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+387,Eating Disorder,"anorexia, bulimia, binge eating"
+388,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+389,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+390,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+391,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+392,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+393,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+394,FBA,working with an ABA agency or school on obtaining an FBA
+395,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+396,Suicidal Ideations,having thoughts about suicide or dying
+397,Suicide Risk,action plans made for suicide and need external support
+398,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+399,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+400,No Friends,"user wants to make friends
+"
+401,SPED caregiver,burnout and stress from caring for high needs family members
+402,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+403,Loneliness,"having no friends, feel like they have no one to talk to "
+404,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+405,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+406,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+407,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+408,Hoarding,
+409,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+410,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+411,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+412,Sportmanship,"sore loser, too competitive"
+413,General Intake,
+414,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+415,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+416,Child abuse,need to heal from trauma from past event(s) in childhood
+417,Incarcerated parent,"one or both parents are in jail or prison
+"
+418,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+419,ESL,ESL
+420,unhappy with coach,unhappy with coach
+421,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+422,Active Quest,user is a primary or participating quester
+423,ADHD ,diagnosed with ADHD or suspects ADHD
+424,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+425,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+426,Clinical Anxiety,"for preclinical, go to stress
+"
+427,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+428,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+429,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+430,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+431,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+432,Bored,"no purpose, nothing to do
+"
+433,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+434,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+435,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+436,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+437,Build wealth,"want to make more money, save money, invest money"
+438,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+439,Hyperactivity/Inattention,Pre-ADHD diagnosis
+440,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+441,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+442,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+443,Poor Mental Health,Pre-diagnosis
+444,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+445,Parenting Stress,"struggling with connecting with kids and discipline
+"
+446,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+447,Personal Care and Hygiene,skills related to taking care of oneself
+448,Declining physical health,want to get healthier. general health problems.   no series illnesses
+449,Resilience,"giving up too quickly or easily, can't bounce back"
+450,Self-Regulation and Coping,"""overreacting"" "
+451,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+452,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+453,Trauma,"emotional abuse, need help setting boundaries"
+454,Stress,general stress management
+455,Debt,trying to get rid of debt and save more
+456,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+457,Eating Disorder,"anorexia, bulimia, binge eating"
+458,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+459,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+460,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+461,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+462,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+463,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+464,FBA,working with an ABA agency or school on obtaining an FBA
+465,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+466,Suicidal Ideations,having thoughts about suicide or dying
+467,Suicide Risk,action plans made for suicide and need external support
+468,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+469,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+470,No Friends,"user wants to make friends
+"
+471,SPED caregiver,burnout and stress from caring for high needs family members
+472,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+473,Loneliness,"having no friends, feel like they have no one to talk to "
+474,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+475,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+476,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+477,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+478,Hoarding,
+479,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+480,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+481,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+482,Sportmanship,"sore loser, too competitive"
+483,General Intake,
+484,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+485,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+486,Child abuse,need to heal from trauma from past event(s) in childhood
+487,Incarcerated parent,"one or both parents are in jail or prison
+"
+488,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+489,ESL,ESL
+490,unhappy with coach,unhappy with coach
+491,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+492,Active Quest,user is a primary or participating quester
+493,ADHD ,diagnosed with ADHD or suspects ADHD
+494,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+495,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+496,Clinical Anxiety,"for preclinical, go to stress
+"
+497,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+498,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+499,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+500,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+501,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+502,Bored,"no purpose, nothing to do
+"
+503,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+504,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+505,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+506,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+507,Build wealth,"want to make more money, save money, invest money"
+508,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+509,Hyperactivity/Inattention,Pre-ADHD diagnosis
+510,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+511,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+512,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+513,Poor Mental Health,Pre-diagnosis
+514,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+515,Parenting Stress,"struggling with connecting with kids and discipline
+"
+516,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+517,Personal Care and Hygiene,skills related to taking care of oneself
+518,Declining physical health,want to get healthier. general health problems.   no series illnesses
+519,Resilience,"giving up too quickly or easily, can't bounce back"
+520,Self-Regulation and Coping,"""overreacting"" "
+521,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+522,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+523,Trauma,"emotional abuse, need help setting boundaries"
+524,Stress,general stress management
+525,Debt,trying to get rid of debt and save more
+526,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+527,Eating Disorder,"anorexia, bulimia, binge eating"
+528,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+529,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+530,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+531,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+532,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+533,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+534,FBA,working with an ABA agency or school on obtaining an FBA
+535,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+536,Suicidal Ideations,having thoughts about suicide or dying
+537,Suicide Risk,action plans made for suicide and need external support
+538,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+539,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+540,No Friends,"user wants to make friends
+"
+541,SPED caregiver,burnout and stress from caring for high needs family members
+542,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+543,Loneliness,"having no friends, feel like they have no one to talk to "
+544,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+545,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+546,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+547,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+548,Hoarding,
+549,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+550,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+551,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+552,Sportmanship,"sore loser, too competitive"
+553,General Intake,
+554,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+555,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+556,Child abuse,need to heal from trauma from past event(s) in childhood
+557,Incarcerated parent,"one or both parents are in jail or prison
+"
+558,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+559,ESL,ESL
+560,unhappy with coach,unhappy with coach
+561,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+562,Active Quest,user is a primary or participating quester
+563,ADHD ,diagnosed with ADHD or suspects ADHD
+564,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+565,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+566,Clinical Anxiety,"for preclinical, go to stress
+"
+567,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+568,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+569,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+570,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+571,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+572,Bored,"no purpose, nothing to do
+"
+573,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+574,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+575,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+576,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+577,Build wealth,"want to make more money, save money, invest money"
+578,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+579,Hyperactivity/Inattention,Pre-ADHD diagnosis
+580,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+581,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+582,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+583,Poor Mental Health,Pre-diagnosis
+584,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+585,Parenting Stress,"struggling with connecting with kids and discipline
+"
+586,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+587,Personal Care and Hygiene,skills related to taking care of oneself
+588,Declining physical health,want to get healthier. general health problems.   no series illnesses
+589,Resilience,"giving up too quickly or easily, can't bounce back"
+590,Self-Regulation and Coping,"""overreacting"" "
+591,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+592,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+593,Trauma,"emotional abuse, need help setting boundaries"
+594,Stress,general stress management
+595,Debt,trying to get rid of debt and save more
+596,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+597,Eating Disorder,"anorexia, bulimia, binge eating"
+598,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+599,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+600,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+601,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+602,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+603,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+604,FBA,working with an ABA agency or school on obtaining an FBA
+605,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+606,Suicidal Ideations,having thoughts about suicide or dying
+607,Suicide Risk,action plans made for suicide and need external support
+608,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+609,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+610,No Friends,"user wants to make friends
+"
+611,SPED caregiver,burnout and stress from caring for high needs family members
+612,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+613,Loneliness,"having no friends, feel like they have no one to talk to "
+614,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+615,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+616,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+617,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+618,Hoarding,
+619,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+620,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+621,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+622,Sportmanship,"sore loser, too competitive"
+623,General Intake,
+624,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+625,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+626,Child abuse,need to heal from trauma from past event(s) in childhood
+627,Incarcerated parent,"one or both parents are in jail or prison
+"
+628,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+629,ESL,ESL
+630,unhappy with coach,unhappy with coach
+631,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+632,Active Quest,user is a primary or participating quester
+633,ADHD ,diagnosed with ADHD or suspects ADHD
+634,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+635,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+636,Clinical Anxiety,"for preclinical, go to stress
+"
+637,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+638,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+639,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+640,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+641,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+642,Bored,"no purpose, nothing to do
+"
+643,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+644,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+645,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+646,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+647,Build wealth,"want to make more money, save money, invest money"
+648,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+649,Hyperactivity/Inattention,Pre-ADHD diagnosis
+650,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+651,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+652,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+653,Poor Mental Health,Pre-diagnosis
+654,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+655,Parenting Stress,"struggling with connecting with kids and discipline
+"
+656,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+657,Personal Care and Hygiene,skills related to taking care of oneself
+658,Declining physical health,want to get healthier. general health problems.   no series illnesses
+659,Resilience,"giving up too quickly or easily, can't bounce back"
+660,Self-Regulation and Coping,"""overreacting"" "
+661,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+662,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+663,Trauma,"emotional abuse, need help setting boundaries"
+664,Stress,general stress management
+665,Debt,trying to get rid of debt and save more
+666,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+667,Eating Disorder,"anorexia, bulimia, binge eating"
+668,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+669,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+670,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+671,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+672,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+673,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+674,FBA,working with an ABA agency or school on obtaining an FBA
+675,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+676,Suicidal Ideations,having thoughts about suicide or dying
+677,Suicide Risk,action plans made for suicide and need external support
+678,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+679,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+680,No Friends,"user wants to make friends
+"
+681,SPED caregiver,burnout and stress from caring for high needs family members
+682,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+683,Loneliness,"having no friends, feel like they have no one to talk to "
+684,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+685,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+686,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+687,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+688,Hoarding,
+689,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+690,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+691,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+692,Sportmanship,"sore loser, too competitive"
+693,General Intake,
+694,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+695,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+696,Child abuse,need to heal from trauma from past event(s) in childhood
+697,Incarcerated parent,"one or both parents are in jail or prison
+"
+698,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+699,ESL,ESL
+700,unhappy with coach,unhappy with coach
+701,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+702,Active Quest,user is a primary or participating quester
+703,ADHD ,diagnosed with ADHD or suspects ADHD
+704,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+705,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+706,Clinical Anxiety,"for preclinical, go to stress
+"
+707,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+708,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+709,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+710,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+711,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+712,Bored,"no purpose, nothing to do
+"
+713,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+714,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+715,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+716,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+717,Build wealth,"want to make more money, save money, invest money"
+718,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+719,Hyperactivity/Inattention,Pre-ADHD diagnosis
+720,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+721,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+722,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+723,Poor Mental Health,Pre-diagnosis
+724,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+725,Parenting Stress,"struggling with connecting with kids and discipline
+"
+726,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+727,Personal Care and Hygiene,skills related to taking care of oneself
+728,Declining physical health,want to get healthier. general health problems.   no series illnesses
+729,Resilience,"giving up too quickly or easily, can't bounce back"
+730,Self-Regulation and Coping,"""overreacting"" "
+731,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+732,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+733,Trauma,"emotional abuse, need help setting boundaries"
+734,Stress,general stress management
+735,Debt,trying to get rid of debt and save more
+736,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+737,Eating Disorder,"anorexia, bulimia, binge eating"
+738,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+739,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+740,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+741,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+742,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+743,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+744,FBA,working with an ABA agency or school on obtaining an FBA
+745,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+746,Suicidal Ideations,having thoughts about suicide or dying
+747,Suicide Risk,action plans made for suicide and need external support
+748,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+749,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+750,No Friends,"user wants to make friends
+"
+751,SPED caregiver,burnout and stress from caring for high needs family members
+752,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+753,Loneliness,"having no friends, feel like they have no one to talk to "
+754,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+755,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+756,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+757,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+758,Hoarding,
+759,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+760,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+761,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+762,Sportmanship,"sore loser, too competitive"
+763,General Intake,
+764,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+765,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+766,Child abuse,need to heal from trauma from past event(s) in childhood
+767,Incarcerated parent,"one or both parents are in jail or prison
+"
+768,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+769,ESL,ESL
+770,unhappy with coach,unhappy with coach
+771,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+772,Active Quest,user is a primary or participating quester
+773,ADHD ,diagnosed with ADHD or suspects ADHD
+774,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+775,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+776,Clinical Anxiety,"for preclinical, go to stress
+"
+777,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+778,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+779,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+780,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+781,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+782,Bored,"no purpose, nothing to do
+"
+783,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+784,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+785,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+786,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+787,Build wealth,"want to make more money, save money, invest money"
+788,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+789,Hyperactivity/Inattention,Pre-ADHD diagnosis
+790,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+791,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+792,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+793,Poor Mental Health,Pre-diagnosis
+794,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+795,Parenting Stress,"struggling with connecting with kids and discipline
+"
+796,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+797,Personal Care and Hygiene,skills related to taking care of oneself
+798,Declining physical health,want to get healthier. general health problems.   no series illnesses
+799,Resilience,"giving up too quickly or easily, can't bounce back"
+800,Self-Regulation and Coping,"""overreacting"" "
+801,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+802,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+803,Trauma,"emotional abuse, need help setting boundaries"
+804,Stress,general stress management
+805,Debt,trying to get rid of debt and save more
+806,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+807,Eating Disorder,"anorexia, bulimia, binge eating"
+808,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+809,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+810,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+811,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+812,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+813,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+814,FBA,working with an ABA agency or school on obtaining an FBA
+815,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+816,Suicidal Ideations,having thoughts about suicide or dying
+817,Suicide Risk,action plans made for suicide and need external support
+818,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+819,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+820,No Friends,"user wants to make friends
+"
+821,SPED caregiver,burnout and stress from caring for high needs family members
+822,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+823,Loneliness,"having no friends, feel like they have no one to talk to "
+824,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+825,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+826,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+827,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+828,Hoarding,
+829,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+830,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+831,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+832,Sportmanship,"sore loser, too competitive"
+833,General Intake,
+834,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+835,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+836,Child abuse,need to heal from trauma from past event(s) in childhood
+837,Incarcerated parent,"one or both parents are in jail or prison
+"
+838,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+839,ESL,ESL
+840,unhappy with coach,unhappy with coach
+841,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+842,Active Quest,user is a primary or participating quester
+843,ADHD ,diagnosed with ADHD or suspects ADHD
+844,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+845,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+846,Clinical Anxiety,"for preclinical, go to stress
+"
+847,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+848,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+849,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+850,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+851,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+852,Bored,"no purpose, nothing to do
+"
+853,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+854,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+855,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+856,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+857,Build wealth,"want to make more money, save money, invest money"
+858,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+859,Hyperactivity/Inattention,Pre-ADHD diagnosis
+860,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+861,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+862,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+863,Poor Mental Health,Pre-diagnosis
+864,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+865,Parenting Stress,"struggling with connecting with kids and discipline
+"
+866,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+867,Personal Care and Hygiene,skills related to taking care of oneself
+868,Declining physical health,want to get healthier. general health problems.   no series illnesses
+869,Resilience,"giving up too quickly or easily, can't bounce back"
+870,Self-Regulation and Coping,"""overreacting"" "
+871,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+872,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+873,Trauma,"emotional abuse, need help setting boundaries"
+874,Stress,general stress management
+875,Debt,trying to get rid of debt and save more
+876,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+877,Eating Disorder,"anorexia, bulimia, binge eating"
+878,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+879,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+880,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+881,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+882,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+883,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+884,FBA,working with an ABA agency or school on obtaining an FBA
+885,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+886,Suicidal Ideations,having thoughts about suicide or dying
+887,Suicide Risk,action plans made for suicide and need external support
+888,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+889,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+890,No Friends,"user wants to make friends
+"
+891,SPED caregiver,burnout and stress from caring for high needs family members
+892,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+893,Loneliness,"having no friends, feel like they have no one to talk to "
+894,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+895,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+896,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+897,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+898,Hoarding,
+899,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+900,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+901,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+902,Sportmanship,"sore loser, too competitive"
+903,General Intake,
+904,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+905,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+906,Child abuse,need to heal from trauma from past event(s) in childhood
+907,Incarcerated parent,"one or both parents are in jail or prison
+"
+908,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+909,ESL,ESL
+910,unhappy with coach,unhappy with coach
+911,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+912,Active Quest,user is a primary or participating quester
+913,ADHD ,diagnosed with ADHD or suspects ADHD
+914,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+915,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+916,Clinical Anxiety,"for preclinical, go to stress
+"
+917,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+918,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+919,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+920,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+921,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+922,Bored,"no purpose, nothing to do
+"
+923,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+924,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+925,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+926,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+927,Build wealth,"want to make more money, save money, invest money"
+928,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+929,Hyperactivity/Inattention,Pre-ADHD diagnosis
+930,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+931,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+932,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+933,Poor Mental Health,Pre-diagnosis
+934,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+935,Parenting Stress,"struggling with connecting with kids and discipline
+"
+936,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+937,Personal Care and Hygiene,skills related to taking care of oneself
+938,Declining physical health,want to get healthier. general health problems.   no series illnesses
+939,Resilience,"giving up too quickly or easily, can't bounce back"
+940,Self-Regulation and Coping,"""overreacting"" "
+941,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+942,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+943,Trauma,"emotional abuse, need help setting boundaries"
+944,Stress,general stress management
+945,Debt,trying to get rid of debt and save more
+946,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+947,Eating Disorder,"anorexia, bulimia, binge eating"
+948,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+949,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+950,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+951,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+952,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+953,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+954,FBA,working with an ABA agency or school on obtaining an FBA
+955,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+956,Suicidal Ideations,having thoughts about suicide or dying
+957,Suicide Risk,action plans made for suicide and need external support
+958,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+959,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+960,No Friends,"user wants to make friends
+"
+961,SPED caregiver,burnout and stress from caring for high needs family members
+962,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+963,Loneliness,"having no friends, feel like they have no one to talk to "
+964,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+965,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+966,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+967,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+968,Hoarding,
+969,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+970,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+971,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+972,Sportmanship,"sore loser, too competitive"
+973,General Intake,
+974,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+975,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+976,Child abuse,need to heal from trauma from past event(s) in childhood
+977,Incarcerated parent,"one or both parents are in jail or prison
+"
+978,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+979,ESL,ESL
+980,unhappy with coach,unhappy with coach
+981,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+982,Active Quest,user is a primary or participating quester
+983,ADHD ,diagnosed with ADHD or suspects ADHD
+984,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+985,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+986,Clinical Anxiety,"for preclinical, go to stress
+"
+987,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+988,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+989,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+990,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+991,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+992,Bored,"no purpose, nothing to do
+"
+993,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+994,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+995,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+996,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+997,Build wealth,"want to make more money, save money, invest money"
+998,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+999,Hyperactivity/Inattention,Pre-ADHD diagnosis
+1000,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+1001,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+1002,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+1003,Poor Mental Health,Pre-diagnosis
+1004,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+1005,Parenting Stress,"struggling with connecting with kids and discipline
+"
+1006,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+1007,Personal Care and Hygiene,skills related to taking care of oneself
+1008,Declining physical health,want to get healthier. general health problems.   no series illnesses
+1009,Resilience,"giving up too quickly or easily, can't bounce back"
+1010,Self-Regulation and Coping,"""overreacting"" "
+1011,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+1012,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+1013,Trauma,"emotional abuse, need help setting boundaries"
+1014,Stress,general stress management
+1015,Debt,trying to get rid of debt and save more
+1016,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+1017,Eating Disorder,"anorexia, bulimia, binge eating"
+1018,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+1019,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+1020,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+1021,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+1022,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+1023,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+1024,FBA,working with an ABA agency or school on obtaining an FBA
+1025,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+1026,Suicidal Ideations,having thoughts about suicide or dying
+1027,Suicide Risk,action plans made for suicide and need external support
+1028,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+1029,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+1030,No Friends,"user wants to make friends
+"
+1031,SPED caregiver,burnout and stress from caring for high needs family members
+1032,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+1033,Loneliness,"having no friends, feel like they have no one to talk to "
+1034,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+1035,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+1036,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+1037,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+1038,Hoarding,
+1039,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+1040,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+1041,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+1042,Sportmanship,"sore loser, too competitive"
+1043,General Intake,
+1044,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+1045,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+1046,Child abuse,need to heal from trauma from past event(s) in childhood
+1047,Incarcerated parent,"one or both parents are in jail or prison
+"
+1048,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+1049,ESL,
+1050,unhappy with coach,
+1051,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+1052,Active Quest,user is a primary or participating quester
+1053,ADHD ,diagnosed with ADHD or suspects ADHD
+1054,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+1055,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+1056,Clinical Anxiety,"for preclinical, go to stress
+"
+1057,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+1058,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+1059,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+1060,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+1061,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+1062,Bored,"no purpose, nothing to do
+"
+1063,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+1064,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+1065,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+1066,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+1067,Build wealth,"want to make more money, save money, invest money"
+1068,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+1069,Hyperactivity/Inattention,Pre-ADHD diagnosis
+1070,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+1071,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+1072,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+1073,Poor Mental Health,Pre-diagnosis
+1074,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+1075,Parenting Stress,"struggling with connecting with kids and discipline
+"
+1076,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+1077,Personal Care and Hygiene,skills related to taking care of oneself
+1078,Declining physical health,want to get healthier. general health problems.   no series illnesses
+1079,Resilience,"giving up too quickly or easily, can't bounce back"
+1080,Self-Regulation and Coping,"""overreacting"" "
+1081,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+1082,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+1083,Trauma,"emotional abuse, need help setting boundaries"
+1084,Stress,general stress management
+1085,Debt,trying to get rid of debt and save more
+1086,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+1087,Eating Disorder,"anorexia, bulimia, binge eating"
+1088,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+1089,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+1090,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+1091,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+1092,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+1093,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+1094,FBA,working with an ABA agency or school on obtaining an FBA
+1095,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+1096,Suicidal Ideations,having thoughts about suicide or dying
+1097,Suicide Risk,action plans made for suicide and need external support
+1098,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+1099,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+1100,No Friends,"user wants to make friends
+"
+1101,SPED caregiver,burnout and stress from caring for high needs family members
+1102,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+1103,Loneliness,"having no friends, feel like they have no one to talk to "
+1104,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+1105,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+1106,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+1107,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+1108,Hoarding,
+1109,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+1110,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+1111,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+1112,Sportmanship,"sore loser, too competitive"
+1113,General Intake,
+1114,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+1115,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+1116,Child abuse,need to heal from trauma from past event(s) in childhood
+1117,Incarcerated parent,"one or both parents are in jail or prison
+"
+1118,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+1119,ESL,ESL
+1120,unhappy with coach,unhappy with coach
+1121,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+1122,Active Quest,user is a primary or participating quester
+1123,ADHD ,diagnosed with ADHD or suspects ADHD
+1124,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+1125,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+1126,Clinical Anxiety,"for preclinical, go to stress
+"
+1127,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+1128,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+1129,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+1130,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+1131,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+1132,Bored,"no purpose, nothing to do
+"
+1133,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+1134,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+1135,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+1136,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+1137,Build wealth,"want to make more money, save money, invest money"
+1138,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+1139,Hyperactivity/Inattention,Pre-ADHD diagnosis
+1140,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+1141,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+1142,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+1143,Poor Mental Health,Pre-diagnosis
+1144,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+1145,Parenting Stress,"struggling with connecting with kids and discipline
+"
+1146,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+1147,Personal Care and Hygiene,skills related to taking care of oneself
+1148,Declining physical health,want to get healthier. general health problems.   no series illnesses
+1149,Resilience,"giving up too quickly or easily, can't bounce back"
+1150,Self-Regulation and Coping,"""overreacting"" "
+1151,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+1152,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+1153,Trauma,"emotional abuse, need help setting boundaries"
+1154,Stress,general stress management
+1155,Debt,trying to get rid of debt and save more
+1156,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+1157,Eating Disorder,"anorexia, bulimia, binge eating"
+1158,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+1159,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+1160,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+1161,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+1162,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+1163,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+1164,FBA,working with an ABA agency or school on obtaining an FBA
+1165,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+1166,Suicidal Ideations,having thoughts about suicide or dying
+1167,Suicide Risk,action plans made for suicide and need external support
+1168,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+1169,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+1170,No Friends,"user wants to make friends
+"
+1171,SPED caregiver,burnout and stress from caring for high needs family members
+1172,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+1173,Loneliness,"having no friends, feel like they have no one to talk to "
+1174,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+1175,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+1176,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+1177,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+1178,Hoarding,
+1179,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+1180,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+1181,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+1182,Sportmanship,"sore loser, too competitive"
+1183,General Intake,
+1184,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+1185,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+1186,Child abuse,need to heal from trauma from past event(s) in childhood
+1187,Incarcerated parent,"one or both parents are in jail or prison
+"
+1188,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+1189,ESL,ESL
+1190,unhappy with coach,unhappy with coach
+1191,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+1192,Active Quest,user is a primary or participating quester
+1193,ADHD ,diagnosed with ADHD or suspects ADHD
+1194,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+1195,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+1196,Clinical Anxiety,"for preclinical, go to stress
+"
+1197,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+1198,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+1199,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+1200,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+1201,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+1202,Bored,"no purpose, nothing to do
+"
+1203,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+1204,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+1205,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+1206,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+1207,Build wealth,"want to make more money, save money, invest money"
+1208,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+1209,Hyperactivity/Inattention,Pre-ADHD diagnosis
+1210,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+1211,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+1212,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+1213,Poor Mental Health,Pre-diagnosis
+1214,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+1215,Parenting Stress,"struggling with connecting with kids and discipline
+"
+1216,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+1217,Personal Care and Hygiene,skills related to taking care of oneself
+1218,Declining physical health,want to get healthier. general health problems.   no series illnesses
+1219,Resilience,"giving up too quickly or easily, can't bounce back"
+1220,Self-Regulation and Coping,"""overreacting"" "
+1221,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+1222,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+1223,Trauma,"emotional abuse, need help setting boundaries"
+1224,Stress,general stress management
+1225,Debt,trying to get rid of debt and save more
+1226,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+1227,Eating Disorder,"anorexia, bulimia, binge eating"
+1228,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+1229,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+1230,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+1231,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+1232,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+1233,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+1234,FBA,working with an ABA agency or school on obtaining an FBA
+1235,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+1236,Suicidal Ideations,having thoughts about suicide or dying
+1237,Suicide Risk,action plans made for suicide and need external support
+1238,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+1239,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+1240,No Friends,"user wants to make friends
+"
+1241,SPED caregiver,burnout and stress from caring for high needs family members
+1242,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+1243,Loneliness,"having no friends, feel like they have no one to talk to "
+1244,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+1245,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+1246,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+1247,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+1248,Hoarding,
+1249,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+1250,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+1251,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+1252,Sportmanship,"sore loser, too competitive"
+1253,General Intake,
+1254,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+1255,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+1256,Child abuse,need to heal from trauma from past event(s) in childhood
+1257,Incarcerated parent,"one or both parents are in jail or prison
+"
+1258,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+1259,ESL,
+1260,unhappy with coach,
+1261,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+1262,Active Quest,user is a primary or participating quester
+1263,ADHD ,diagnosed with ADHD or suspects ADHD
+1264,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+1265,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+1266,Clinical Anxiety,"for preclinical, go to stress
+"
+1267,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+1268,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+1269,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+1270,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+1271,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+1272,Bored,"no purpose, nothing to do
+"
+1273,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+1274,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+1275,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+1276,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+1277,Build wealth,"want to make more money, save money, invest money"
+1278,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+1279,Hyperactivity/Inattention,Pre-ADHD diagnosis
+1280,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+1281,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+1282,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+1283,Poor Mental Health,Pre-diagnosis
+1284,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+1285,Parenting Stress,"struggling with connecting with kids and discipline
+"
+1286,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+1287,Personal Care and Hygiene,skills related to taking care of oneself
+1288,Declining physical health,want to get healthier. general health problems.   no series illnesses
+1289,Resilience,"giving up too quickly or easily, can't bounce back"
+1290,Self-Regulation and Coping,"""overreacting"" "
+1291,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+1292,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+1293,Trauma,"emotional abuse, need help setting boundaries"
+1294,Stress,general stress management
+1295,Debt,trying to get rid of debt and save more
+1296,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+1297,Eating Disorder,"anorexia, bulimia, binge eating"
+1298,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+1299,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+1300,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+1301,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+1302,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+1303,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+1304,FBA,working with an ABA agency or school on obtaining an FBA
+1305,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+1306,Suicidal Ideations,having thoughts about suicide or dying
+1307,Suicide Risk,action plans made for suicide and need external support
+1308,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+1309,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+1310,No Friends,"user wants to make friends
+"
+1311,SPED caregiver,burnout and stress from caring for high needs family members
+1312,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+1313,Loneliness,"having no friends, feel like they have no one to talk to "
+1314,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+1315,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+1316,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+1317,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+1318,Hoarding,
+1319,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+1320,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+1321,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+1322,Sportmanship,"sore loser, too competitive"
+1323,General Intake,
+1324,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+1325,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+1326,Child abuse,need to heal from trauma from past event(s) in childhood
+1327,Incarcerated parent,"one or both parents are in jail or prison
+"
+1328,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+1329,ESL,ESL
+1330,unhappy with coach,unhappy with coach
+1331,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+1332,Active Quest,user is a primary or participating quester
+1333,ADHD ,diagnosed with ADHD or suspects ADHD
+1334,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+1335,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+1336,Clinical Anxiety,"for preclinical, go to stress
+"
+1337,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+1338,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+1339,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+1340,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+1341,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+1342,Bored,"no purpose, nothing to do
+"
+1343,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+1344,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+1345,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+1346,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+1347,Build wealth,"want to make more money, save money, invest money"
+1348,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+1349,Hyperactivity/Inattention,Pre-ADHD diagnosis
+1350,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+1351,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+1352,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+1353,Poor Mental Health,Pre-diagnosis
+1354,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+1355,Parenting Stress,"struggling with connecting with kids and discipline
+"
+1356,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+1357,Personal Care and Hygiene,skills related to taking care of oneself
+1358,Declining physical health,want to get healthier. general health problems.   no series illnesses
+1359,Resilience,"giving up too quickly or easily, can't bounce back"
+1360,Self-Regulation and Coping,"""overreacting"" "
+1361,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+1362,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+1363,Trauma,"emotional abuse, need help setting boundaries"
+1364,Stress,general stress management
+1365,Debt,trying to get rid of debt and save more
+1366,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+1367,Eating Disorder,"anorexia, bulimia, binge eating"
+1368,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+1369,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+1370,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+1371,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+1372,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+1373,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+1374,FBA,working with an ABA agency or school on obtaining an FBA
+1375,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+1376,Suicidal Ideations,having thoughts about suicide or dying
+1377,Suicide Risk,action plans made for suicide and need external support
+1378,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+1379,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+1380,No Friends,"user wants to make friends
+"
+1381,SPED caregiver,burnout and stress from caring for high needs family members
+1382,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+1383,Loneliness,"having no friends, feel like they have no one to talk to "
+1384,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+1385,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+1386,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+1387,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+1388,Hoarding,
+1389,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+1390,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+1391,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+1392,Sportmanship,"sore loser, too competitive"
+1393,General Intake,
+1394,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+1395,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+1396,Child abuse,need to heal from trauma from past event(s) in childhood
+1397,Incarcerated parent,"one or both parents are in jail or prison
+"
+1398,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+1399,ESL,
+1400,unhappy with coach,
+1401,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+1402,Active Quest,user is a primary or participating quester
+1403,ADHD ,diagnosed with ADHD or suspects ADHD
+1404,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+1405,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+1406,Clinical Anxiety,"for preclinical, go to stress
+"
+1407,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+1408,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+1409,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+1410,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+1411,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+1412,Bored,"no purpose, nothing to do
+"
+1413,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+1414,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+1415,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+1416,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+1417,Build wealth,"want to make more money, save money, invest money"
+1418,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+1419,Hyperactivity/Inattention,Pre-ADHD diagnosis
+1420,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+1421,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+1422,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+1423,Poor Mental Health,Pre-diagnosis
+1424,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+1425,Parenting Stress,"struggling with connecting with kids and discipline
+"
+1426,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+1427,Personal Care and Hygiene,skills related to taking care of oneself
+1428,Declining physical health,want to get healthier. general health problems.   no series illnesses
+1429,Resilience,"giving up too quickly or easily, can't bounce back"
+1430,Self-Regulation and Coping,"""overreacting"" "
+1431,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+1432,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+1433,Trauma,"emotional abuse, need help setting boundaries"
+1434,Stress,general stress management
+1435,Debt,trying to get rid of debt and save more
+1436,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+1437,Eating Disorder,"anorexia, bulimia, binge eating"
+1438,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+1439,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+1440,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+1441,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+1442,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+1443,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+1444,FBA,working with an ABA agency or school on obtaining an FBA
+1445,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+1446,Suicidal Ideations,having thoughts about suicide or dying
+1447,Suicide Risk,action plans made for suicide and need external support
+1448,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+1449,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+1450,No Friends,"user wants to make friends
+"
+1451,SPED caregiver,burnout and stress from caring for high needs family members
+1452,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+1453,Loneliness,"having no friends, feel like they have no one to talk to "
+1454,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+1455,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+1456,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+1457,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+1458,Hoarding,
+1459,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+1460,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+1461,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+1462,Sportmanship,"sore loser, too competitive"
+1463,General Intake,
+1464,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+1465,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+1466,Child abuse,need to heal from trauma from past event(s) in childhood
+1467,Incarcerated parent,"one or both parents are in jail or prison
+"
+1468,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+1469,ESL,ESL
+1470,unhappy with coach,unhappy with coach
+1471,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+1472,Active Quest,user is a primary or participating quester
+1473,ADHD ,diagnosed with ADHD or suspects ADHD
+1474,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+1475,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+1476,Clinical Anxiety,"for preclinical, go to stress
+"
+1477,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+1478,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+1479,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+1480,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+1481,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+1482,Bored,"no purpose, nothing to do
+"
+1483,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+1484,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+1485,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+1486,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+1487,Build wealth,"want to make more money, save money, invest money"
+1488,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+1489,Hyperactivity/Inattention,Pre-ADHD diagnosis
+1490,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+1491,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+1492,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+1493,Poor Mental Health,Pre-diagnosis
+1494,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+1495,Parenting Stress,"struggling with connecting with kids and discipline
+"
+1496,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+1497,Personal Care and Hygiene,skills related to taking care of oneself
+1498,Declining physical health,want to get healthier. general health problems.   no series illnesses
+1499,Resilience,"giving up too quickly or easily, can't bounce back"
+1500,Self-Regulation and Coping,"""overreacting"" "
+1501,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+1502,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+1503,Trauma,"emotional abuse, need help setting boundaries"
+1504,Stress,general stress management
+1505,Debt,trying to get rid of debt and save more
+1506,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+1507,Eating Disorder,"anorexia, bulimia, binge eating"
+1508,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+1509,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+1510,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+1511,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+1512,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+1513,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+1514,FBA,working with an ABA agency or school on obtaining an FBA
+1515,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+1516,Suicidal Ideations,having thoughts about suicide or dying
+1517,Suicide Risk,action plans made for suicide and need external support
+1518,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+1519,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+1520,No Friends,"user wants to make friends
+"
+1521,SPED caregiver,burnout and stress from caring for high needs family members
+1522,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+1523,Loneliness,"having no friends, feel like they have no one to talk to "
+1524,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+1525,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+1526,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+1527,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+1528,Hoarding,
+1529,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+1530,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+1531,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+1532,Sportmanship,"sore loser, too competitive"
+1533,General Intake,
+1534,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+1535,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+1536,Child abuse,need to heal from trauma from past event(s) in childhood
+1537,Incarcerated parent,"one or both parents are in jail or prison
+"
+1538,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+1539,ESL,ESL
+1540,unhappy with coach,unhappy with coach
+1541,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+1542,Active Quest,user is a primary or participating quester
+1543,ADHD ,diagnosed with ADHD or suspects ADHD
+1544,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+1545,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+1546,Clinical Anxiety,"for preclinical, go to stress
+"
+1547,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+1548,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+1549,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+1550,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+1551,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+1552,Bored,"no purpose, nothing to do
+"
+1553,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+1554,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+1555,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+1556,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+1557,Build wealth,"want to make more money, save money, invest money"
+1558,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+1559,Hyperactivity/Inattention,Pre-ADHD diagnosis
+1560,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+1561,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+1562,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+1563,Poor Mental Health,Pre-diagnosis
+1564,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+1565,Parenting Stress,"struggling with connecting with kids and discipline
+"
+1566,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+1567,Personal Care and Hygiene,skills related to taking care of oneself
+1568,Declining physical health,want to get healthier. general health problems.   no series illnesses
+1569,Resilience,"giving up too quickly or easily, can't bounce back"
+1570,Self-Regulation and Coping,"""overreacting"" "
+1571,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+1572,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+1573,Trauma,"emotional abuse, need help setting boundaries"
+1574,Stress,general stress management
+1575,Debt,trying to get rid of debt and save more
+1576,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+1577,Eating Disorder,"anorexia, bulimia, binge eating"
+1578,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+1579,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+1580,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+1581,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+1582,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+1583,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+1584,FBA,working with an ABA agency or school on obtaining an FBA
+1585,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+1586,Suicidal Ideations,having thoughts about suicide or dying
+1587,Suicide Risk,action plans made for suicide and need external support
+1588,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+1589,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+1590,No Friends,"user wants to make friends
+"
+1591,SPED caregiver,burnout and stress from caring for high needs family members
+1592,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+1593,Loneliness,"having no friends, feel like they have no one to talk to "
+1594,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+1595,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+1596,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+1597,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+1598,Hoarding,
+1599,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+1600,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+1601,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+1602,Sportmanship,"sore loser, too competitive"
+1603,General Intake,
+1604,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+1605,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+1606,Child abuse,need to heal from trauma from past event(s) in childhood
+1607,Incarcerated parent,"one or both parents are in jail or prison
+"
+1608,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+1609,ESL,ESL
+1610,unhappy with coach,unhappy with coach
+1611,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+1612,Active Quest,user is a primary or participating quester
+1613,ADHD ,diagnosed with ADHD or suspects ADHD
+1614,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+1615,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+1616,Clinical Anxiety,"for preclinical, go to stress
+"
+1617,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+1618,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+1619,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+1620,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+1621,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+1622,Bored,"no purpose, nothing to do
+"
+1623,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+1624,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+1625,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+1626,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+1627,Build wealth,"want to make more money, save money, invest money"
+1628,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+1629,Hyperactivity/Inattention,Pre-ADHD diagnosis
+1630,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+1631,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+1632,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+1633,Poor Mental Health,Pre-diagnosis
+1634,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+1635,Parenting Stress,"struggling with connecting with kids and discipline
+"
+1636,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+1637,Personal Care and Hygiene,skills related to taking care of oneself
+1638,Declining physical health,want to get healthier. general health problems.   no series illnesses
+1639,Resilience,"giving up too quickly or easily, can't bounce back"
+1640,Self-Regulation and Coping,"""overreacting"" "
+1641,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+1642,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+1643,Trauma,"emotional abuse, need help setting boundaries"
+1644,Stress,general stress management
+1645,Debt,trying to get rid of debt and save more
+1646,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+1647,Eating Disorder,"anorexia, bulimia, binge eating"
+1648,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+1649,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+1650,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+1651,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+1652,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+1653,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+1654,FBA,working with an ABA agency or school on obtaining an FBA
+1655,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+1656,Suicidal Ideations,having thoughts about suicide or dying
+1657,Suicide Risk,action plans made for suicide and need external support
+1658,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+1659,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+1660,No Friends,"user wants to make friends
+"
+1661,SPED caregiver,burnout and stress from caring for high needs family members
+1662,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+1663,Loneliness,"having no friends, feel like they have no one to talk to "
+1664,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+1665,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+1666,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+1667,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+1668,Hoarding,
+1669,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+1670,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+1671,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+1672,Sportmanship,"sore loser, too competitive"
+1673,General Intake,
+1674,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+1675,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+1676,Child abuse,need to heal from trauma from past event(s) in childhood
+1677,Incarcerated parent,"one or both parents are in jail or prison
+"
+1678,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+1679,ESL,ESL
+1680,unhappy with coach,unhappy with coach
+1681,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+1682,Active Quest,user is a primary or participating quester
+1683,ADHD ,diagnosed with ADHD or suspects ADHD
+1684,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+1685,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+1686,Clinical Anxiety,"for preclinical, go to stress
+"
+1687,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+1688,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+1689,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+1690,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+1691,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+1692,Bored,"no purpose, nothing to do
+"
+1693,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+1694,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+1695,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+1696,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+1697,Build wealth,"want to make more money, save money, invest money"
+1698,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+1699,Hyperactivity/Inattention,Pre-ADHD diagnosis
+1700,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+1701,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+1702,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+1703,Poor Mental Health,Pre-diagnosis
+1704,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+1705,Parenting Stress,"struggling with connecting with kids and discipline
+"
+1706,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+1707,Personal Care and Hygiene,skills related to taking care of oneself
+1708,Declining physical health,want to get healthier. general health problems.   no series illnesses
+1709,Resilience,"giving up too quickly or easily, can't bounce back"
+1710,Self-Regulation and Coping,"""overreacting"" "
+1711,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+1712,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+1713,Trauma,"emotional abuse, need help setting boundaries"
+1714,Stress,general stress management
+1715,Debt,trying to get rid of debt and save more
+1716,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+1717,Eating Disorder,"anorexia, bulimia, binge eating"
+1718,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+1719,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+1720,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+1721,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+1722,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+1723,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+1724,FBA,working with an ABA agency or school on obtaining an FBA
+1725,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+1726,Suicidal Ideations,having thoughts about suicide or dying
+1727,Suicide Risk,action plans made for suicide and need external support
+1728,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+1729,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+1730,No Friends,"user wants to make friends
+"
+1731,SPED caregiver,burnout and stress from caring for high needs family members
+1732,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+1733,Loneliness,"having no friends, feel like they have no one to talk to "
+1734,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+1735,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+1736,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+1737,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+1738,Hoarding,
+1739,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+1740,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+1741,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+1742,Sportmanship,"sore loser, too competitive"
+1743,General Intake,
+1744,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+1745,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+1746,Child abuse,need to heal from trauma from past event(s) in childhood
+1747,Incarcerated parent,"one or both parents are in jail or prison
+"
+1748,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+1749,ESL,ESL
+1750,unhappy with coach,unhappy with coach
+1751,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+1752,Active Quest,user is a primary or participating quester
+1753,ADHD ,diagnosed with ADHD or suspects ADHD
+1754,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+1755,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+1756,Clinical Anxiety,"for preclinical, go to stress
+"
+1757,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+1758,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+1759,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+1760,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+1761,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+1762,Bored,"no purpose, nothing to do
+"
+1763,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+1764,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+1765,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+1766,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+1767,Build wealth,"want to make more money, save money, invest money"
+1768,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+1769,Hyperactivity/Inattention,Pre-ADHD diagnosis
+1770,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+1771,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+1772,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+1773,Poor Mental Health,Pre-diagnosis
+1774,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+1775,Parenting Stress,"struggling with connecting with kids and discipline
+"
+1776,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+1777,Personal Care and Hygiene,skills related to taking care of oneself
+1778,Declining physical health,want to get healthier. general health problems.   no series illnesses
+1779,Resilience,"giving up too quickly or easily, can't bounce back"
+1780,Self-Regulation and Coping,"""overreacting"" "
+1781,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+1782,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+1783,Trauma,"emotional abuse, need help setting boundaries"
+1784,Stress,general stress management
+1785,Debt,trying to get rid of debt and save more
+1786,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+1787,Eating Disorder,"anorexia, bulimia, binge eating"
+1788,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+1789,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+1790,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+1791,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+1792,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+1793,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+1794,FBA,working with an ABA agency or school on obtaining an FBA
+1795,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+1796,Suicidal Ideations,having thoughts about suicide or dying
+1797,Suicide Risk,action plans made for suicide and need external support
+1798,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+1799,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+1800,No Friends,"user wants to make friends
+"
+1801,SPED caregiver,burnout and stress from caring for high needs family members
+1802,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+1803,Loneliness,"having no friends, feel like they have no one to talk to "
+1804,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+1805,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+1806,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+1807,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+1808,Hoarding,
+1809,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+1810,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+1811,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+1812,Sportmanship,"sore loser, too competitive"
+1813,General Intake,
+1814,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+1815,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+1816,Child abuse,need to heal from trauma from past event(s) in childhood
+1817,Incarcerated parent,"one or both parents are in jail or prison
+"
+1818,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+1819,ESL,ESL
+1820,unhappy with coach,unhappy with coach
+1821,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+1822,Active Quest,user is a primary or participating quester
+1823,ADHD ,diagnosed with ADHD or suspects ADHD
+1824,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+1825,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+1826,Clinical Anxiety,"for preclinical, go to stress
+"
+1827,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+1828,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+1829,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+1830,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+1831,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+1832,Bored,"no purpose, nothing to do
+"
+1833,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+1834,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+1835,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+1836,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+1837,Build wealth,"want to make more money, save money, invest money"
+1838,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+1839,Hyperactivity/Inattention,Pre-ADHD diagnosis
+1840,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+1841,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+1842,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+1843,Poor Mental Health,Pre-diagnosis
+1844,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+1845,Parenting Stress,"struggling with connecting with kids and discipline
+"
+1846,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+1847,Personal Care and Hygiene,skills related to taking care of oneself
+1848,Declining physical health,want to get healthier. general health problems.   no series illnesses
+1849,Resilience,"giving up too quickly or easily, can't bounce back"
+1850,Self-Regulation and Coping,"""overreacting"" "
+1851,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+1852,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+1853,Trauma,"emotional abuse, need help setting boundaries"
+1854,Stress,general stress management
+1855,Debt,trying to get rid of debt and save more
+1856,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+1857,Eating Disorder,"anorexia, bulimia, binge eating"
+1858,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+1859,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+1860,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+1861,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+1862,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+1863,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+1864,FBA,working with an ABA agency or school on obtaining an FBA
+1865,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+1866,Suicidal Ideations,having thoughts about suicide or dying
+1867,Suicide Risk,action plans made for suicide and need external support
+1868,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+1869,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+1870,No Friends,"user wants to make friends
+"
+1871,SPED caregiver,burnout and stress from caring for high needs family members
+1872,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+1873,Loneliness,"having no friends, feel like they have no one to talk to "
+1874,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+1875,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+1876,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+1877,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+1878,Hoarding,
+1879,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+1880,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+1881,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+1882,Sportmanship,"sore loser, too competitive"
+1883,General Intake,
+1884,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+1885,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+1886,Child abuse,need to heal from trauma from past event(s) in childhood
+1887,Incarcerated parent,"one or both parents are in jail or prison
+"
+1888,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+1889,ESL,ESL
+1890,unhappy with coach,unhappy with coach
+1891,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+1892,Active Quest,user is a primary or participating quester
+1893,ADHD ,diagnosed with ADHD or suspects ADHD
+1894,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+1895,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+1896,Clinical Anxiety,"for preclinical, go to stress
+"
+1897,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+1898,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+1899,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+1900,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+1901,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+1902,Bored,"no purpose, nothing to do
+"
+1903,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+1904,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+1905,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+1906,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+1907,Build wealth,"want to make more money, save money, invest money"
+1908,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+1909,Hyperactivity/Inattention,Pre-ADHD diagnosis
+1910,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+1911,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+1912,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+1913,Poor Mental Health,Pre-diagnosis
+1914,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+1915,Parenting Stress,"struggling with connecting with kids and discipline
+"
+1916,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+1917,Personal Care and Hygiene,skills related to taking care of oneself
+1918,Declining physical health,want to get healthier. general health problems.   no series illnesses
+1919,Resilience,"giving up too quickly or easily, can't bounce back"
+1920,Self-Regulation and Coping,"""overreacting"" "
+1921,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+1922,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+1923,Trauma,"emotional abuse, need help setting boundaries"
+1924,Stress,general stress management
+1925,Debt,trying to get rid of debt and save more
+1926,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+1927,Eating Disorder,"anorexia, bulimia, binge eating"
+1928,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+1929,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+1930,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+1931,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+1932,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+1933,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+1934,FBA,working with an ABA agency or school on obtaining an FBA
+1935,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+1936,Suicidal Ideations,having thoughts about suicide or dying
+1937,Suicide Risk,action plans made for suicide and need external support
+1938,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+1939,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+1940,No Friends,"user wants to make friends
+"
+1941,SPED caregiver,burnout and stress from caring for high needs family members
+1942,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+1943,Loneliness,"having no friends, feel like they have no one to talk to "
+1944,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+1945,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+1946,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+1947,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+1948,Hoarding,
+1949,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+1950,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+1951,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+1952,Sportmanship,"sore loser, too competitive"
+1953,General Intake,
+1954,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+1955,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+1956,Child abuse,need to heal from trauma from past event(s) in childhood
+1957,Incarcerated parent,"one or both parents are in jail or prison
+"
+1958,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+1959,ESL,ESL
+1960,unhappy with coach,unhappy with coach
+1961,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+1962,Active Quest,user is a primary or participating quester
+1963,ADHD ,diagnosed with ADHD or suspects ADHD
+1964,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+1965,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+1966,Clinical Anxiety,"for preclinical, go to stress
+"
+1967,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+1968,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+1969,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+1970,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+1971,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+1972,Bored,"no purpose, nothing to do
+"
+1973,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+1974,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+1975,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+1976,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+1977,Build wealth,"want to make more money, save money, invest money"
+1978,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+1979,Hyperactivity/Inattention,Pre-ADHD diagnosis
+1980,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+1981,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+1982,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+1983,Poor Mental Health,Pre-diagnosis
+1984,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+1985,Parenting Stress,"struggling with connecting with kids and discipline
+"
+1986,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+1987,Personal Care and Hygiene,skills related to taking care of oneself
+1988,Declining physical health,want to get healthier. general health problems.   no series illnesses
+1989,Resilience,"giving up too quickly or easily, can't bounce back"
+1990,Self-Regulation and Coping,"""overreacting"" "
+1991,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+1992,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+1993,Trauma,"emotional abuse, need help setting boundaries"
+1994,Stress,general stress management
+1995,Debt,trying to get rid of debt and save more
+1996,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+1997,Eating Disorder,"anorexia, bulimia, binge eating"
+1998,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+1999,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+2000,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+2001,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+2002,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+2003,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+2004,FBA,working with an ABA agency or school on obtaining an FBA
+2005,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+2006,Suicidal Ideations,having thoughts about suicide or dying
+2007,Suicide Risk,action plans made for suicide and need external support
+2008,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+2009,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+2010,No Friends,"user wants to make friends
+"
+2011,SPED caregiver,burnout and stress from caring for high needs family members
+2012,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+2013,Loneliness,"having no friends, feel like they have no one to talk to "
+2014,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+2015,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+2016,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+2017,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+2018,Hoarding,
+2019,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+2020,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+2021,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+2022,Sportmanship,"sore loser, too competitive"
+2023,General Intake,
+2024,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+2025,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+2026,Child abuse,need to heal from trauma from past event(s) in childhood
+2027,Incarcerated parent,"one or both parents are in jail or prison
+"
+2028,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+2029,ESL,
+2030,unhappy with coach,
+2031,Better academics,"want/need to do better in school.  If just not doing the work, tag behind on work or motivation/procrastination"
+2032,Active Quest,user is a primary or participating quester
+2033,ADHD ,diagnosed with ADHD or suspects ADHD
+2034,Excess Alcohol,"dealing with stress by excessive drinking, binge drinking, relationships and connectedness"
+2035,Anger ,"difficulty controlling anger or rage, needs help with mindfulness and self-regulation"
+2036,Clinical Anxiety,"for preclinical, go to stress
+"
+2037,Attendance Problems,"user has problems going to and staying at school or work on time/for required time consistently, frequent call-outs"
+2038,Autism (Self),"diagnosed with autism (with or without speech delay), pervasive developmental disorder, global delays"
+2039,Challenging Behaviors,"Do we need separate ones for adult and kids? @Caitlin Ryan Marcus If so the school conduct problem can be for kids.
+"
+2040,Job Hunting,"tough job market, hard to find employment after college even if highly qualified, tons of competition"
+2041,Communication Deficits,"want to become a more effective communicator, advocate for self, improve relationships
+"
+2042,Bored,"no purpose, nothing to do
+"
+2043,Discrimination/Racism,"user is part of a marginalized group, exclusion, bullying, microaggression"
+2044,Drug Use,"cocaine, heroin, pills, ketamine, fentanyl, crack cocaine, methamphetamines"
+2045,Executive Functioning Skills,"user's ability to plan ahead, control impulses. adhd, autism, learning disabilities, intellectual disability, addiction
+"
+2046,Good Families,already pretty good family dynamimcs and motivated to maintain or grow further
+2047,Build wealth,"want to make more money, save money, invest money"
+2048,Bad Friends,"bad influences or friends who don't support them.  have these friends but still lonely
+"
+2049,Hyperactivity/Inattention,Pre-ADHD diagnosis
+2050,Intellectual disability ID,diagnosis of intellectual disability/low IQ
+2051,Learning disability,"Dyslexia, dysgraphia, auditory processing difficulties, dyspraxia "
+2052,Poor Marriage,"marriage has problems, arguments, fighting, addiction, etc
+"
+2053,Poor Mental Health,Pre-diagnosis
+2054,Motivation and procrastination,not quite on top of things but not yet behind on work.  
+2055,Parenting Stress,"struggling with connecting with kids and discipline
+"
+2056,Perfectionism,Fear of failure and feeling unnecessary stress from perfectionism
+2057,Personal Care and Hygiene,skills related to taking care of oneself
+2058,Declining physical health,want to get healthier. general health problems.   no series illnesses
+2059,Resilience,"giving up too quickly or easily, can't bounce back"
+2060,Self-Regulation and Coping,"""overreacting"" "
+2061,Estranged families,"family members on non-speaking terms (i.e. grandparents, siblings)"
+2062,Need Tolerance Inclusion,"extremists, bigots.  people who need more tolerance"
+2063,Trauma,"emotional abuse, need help setting boundaries"
+2064,Stress,general stress management
+2065,Debt,trying to get rid of debt and save more
+2066,Sleep Disturbance,"Unhealthy sleeping patterns, like inability to fall or stay asleep, frequent waking at night, consistently getting less than 7 hours per night"
+2067,Eating Disorder,"anorexia, bulimia, binge eating"
+2068,Aging,"dealing with natural changes in appearance, physical, mental capacities.  For disease, also tag Poor physical health"
+2069,Vaping/Smoking,Consuming nicotine vapor or cigarette smoke
+2070,Maintaining Employment,"keeping up with job duties harder for people with autism, adhd, depression, bipolar, substance abuse"
+2071,Just Relocated,"moved house recently, assimilation, culture shock, loneliness, making friends"
+2072,Diagnosed Depression,"diagnosis of depression or persistent depression symptoms, no energy, no pleasure, can escalate to suicide"
+2073,Behind on work,"boss has noticed loss of productivity, performance improvement plan"
+2074,FBA,working with an ABA agency or school on obtaining an FBA
+2075,Sibling Rivalry,"Interpersonal problems or fighting between siblings, need help with communication, boundaries, parent relations"
+2076,Suicidal Ideations,having thoughts about suicide or dying
+2077,Suicide Risk,action plans made for suicide and need external support
+2078,Emotional Abuse,"neglected or gaslit by romantic partner, parent, caregiver, trauma bonds"
+2079,Divorcing parents,user's parents are separated/divorced or separating/divorcing. 
+2080,No Friends,"user wants to make friends
+"
+2081,SPED caregiver,burnout and stress from caring for high needs family members
+2082,Transition to adulthood/independence,"special ed and older teens/young adults who are finishing college, moving out, getting their own place, figuring out how to be independent"
+2083,Loneliness,"having no friends, feel like they have no one to talk to "
+2084,Poor social skills,"has a hard time connecting with other people, having smooth conversations, knowing how to act in certain situations"
+2085,Social anxiety,"difficulty approaching others, ordering food, making phone calls, can also be neurodivergent or have clinical anxiety"
+2086,Lack of confidence,"wants to gain confidence and feel good about themselves
+"
+2087,Personal Growth and Self-Actualization,this user is seeking more fulfillment and purpose in life
+2088,Hoarding,
+2089,Poverty,"living below the poverty line or significant debt. money troubles, no savings, can't pay bills every month"
+2090,Bipolar,"diagnosed with bipolar 1 or 2, or cyclothymia (a less severe version of BP2)"
+2091,Chronic illness,"lupus, diabetes, parkinsons, fibromyalgia, multiple sclerosis, and other progressive, terminal, or longterm medical diagnoses"
+2092,Sportmanship,"sore loser, too competitive"
+2093,General Intake,
+2094,Physical abuse,"punching, hitting, choking, scratching, throwing items "
+2095,Sexual abuse,"unwanted touching, sexual harrassment, rape, sexual assault, adult on adult, adult on minor"
+2096,Child abuse,need to heal from trauma from past event(s) in childhood
+2097,Incarcerated parent,"one or both parents are in jail or prison
+"
+2098,Active Abuse,"can be sexual, physical, emotional, neglect, psychological, financial, reproductive"
+2099,ESL,ESL
+2100,unhappy with coach,unhappy with coach
