@@ -1,0 +1,132 @@
+id,bullying,confidence,notes,self_harm,severity,text
+1,Yes,1.0,,No,Medium,Hope you have fun at the dance! ðŸ˜Š (JK nobody will dance with you)
+2,No,0.98,,No,High,Bro you're literally killing me with these memes ðŸ˜‚ðŸ’€
+3,Yes,1.0,,No,High,"Nobody cares about your opinion, just stop talking."
+4,No,1.0,,No,High,Great job on your presentation! Really inspiring stuff.
+5,Yes,0.99,,No,High,"Youâ€™re such a loser, canâ€™t believe you even tried."
+6,No,1.0,,No,High,Had the best day with friends! Feeling blessed ðŸ˜„
+7,Yes,0.97,,No,High,"Wow, you really mess things up every single time."
+8,No,1.0,,No,High,"Keep up the hard work, youâ€™re making progress every day!"
+9,Yes,1.0,,No,High,"Youâ€™re pathetic, just disappear already."
+10,No,1.0,,No,High,"Thanks for the support, really appreciate it everyone!"
+11,No,0.85,,No,Low,That cut looks bad. Are you okay? Please talk to someone.
+12,Yes,0.99,,No,Medium,You're literally the worst player on this team. Quit already.
+13,No,0.99,The original poster indicates that her feelings are hurt and needs to be checked up on immedioately.,Yes,High,Canâ€™t stop crying. Everything hurts.
+14,Yes,0.99,"Those are harmful words that can impact the poster's mental fortitude
+",No,High,Why does she even try? No one likes her.
+15,No,0.8,,No,Low,You're amazing â€” donâ€™t let anyone tell you otherwise.
+16,Yes,1.0,,No,High,LMAO you're such a clown ðŸ¤¡
+17,No,0.9,The op needs intervention and a checkup. Language reflects a need for help,Yes,High,I really need someone to talk to. This is too much.
+18,Yes,1.0,,No,High,Omg you're so dumb it actually hurts.
+19,No,1.0,,No,Low,"Proud of you for pushing through, seriously ðŸ‘"
+20,Yes,0.87,Threatening language that expresses a wish for harm on another person.,No,High,She should just disappear already tbh.
+21,No,0.95,,No,Low,Big W! You smashed that test! ðŸŽ‰
+22,Yes,0.8,Language is highly concerning and can impact harm on another person,No,High,"You're not even worth hating, thatâ€™s how irrelevant you are."
+23,No,0.89,,Yes,High,Is it bad that I just want to stop existing for a bit?
+24,Yes,1.0,Threatening language used,No,High,You're an attention seeker. Nobody cares about your 'anxiety'.
+25,No,1.0,,No,Low,"Thanks for checking in, it means a lot â¤ï¸"
+26,Yes,0.97,,No,High,Bet she cried again. Crybaby.
+27,No,0.9,,Yes,High,Life feels empty sometimes.
+28,No,1.0,,No,Low,"You're doing your best, and thatâ€™s enough."
+29,Yes,0.86,It is not exactly bullying or does not explicitly connote malicious intent.,No,Medium,Heâ€™s like a virus in every group chat.
+30,No,1.0,,No,Low,"That post made my day, thank you for sharing it!"
+31,Yes,0.95,,No,Low,Your makeup looks like a failed science experiment ðŸ’€
+32,No,0.98,,Yes,High,Please donâ€™t hurt yourself. You matter.
+33,Yes,0.93,,No,High,Did you even read what you posted? So cringe.
+34,No,0.8,"Supportive, encouraging message.",No,Low,Weâ€™re here for you. Donâ€™t isolate yourself.
+35,No,0.85,Seems like banter but can be seen as bullying depending on the context.,No,Medium,Bro just log off if you can't handle the heat ðŸ˜‚
+36,Yes,0.8,"Exclusionary language, could be hurtful.",No,Medium,No one invited you for a reason.
+37,Yes,0.9,,No,Medium,You seriously need help. And not the good kind.
+38,No,1.0,,No,Low,You're stronger than you think ðŸ’ª
+39,Yes,0.9,"Mocks mental health, potentially harmful tone.",No,Medium,She's acting depressed for clout again ðŸ™„
+40,No,1.0,Supportive check-in; possibly indicates concern for self-harm.,Yes,Low,"Hey, I saw your story â€” you okay?"
+41,No,0.93,Expression of hopelessness; potential self-harm risk,Yes,High,I wish I could just sleep forever.
+42,No,1.0,,No,Low,This community is so supportive. Love you all.
+43,Yes,0.93,Hostile language wishing harm on another person,No,Medium,Honestly I wouldn't care if something happened to him.
+44,No,1.0,,No,Low,"You did amazing today, don't let one mistake ruin it."
+45,Yes,0.94,Insulting and demeaning language targeting intelligence.,No,Medium,"Every time you speak, my brain loses IQ points."
+46,No,0.92,Expression of loneliness and possible emotional distress.,Yes,Medium,I feel invisible all the time.
+47,No,1.0,,No,Low,What a kind comment! You made my day.
+48,No,1.0,Depressive and suicidal tones,Yes,High,Maybe the world would be better without me.
+49,No,1.0,,No,Low,Iâ€™m so proud of how far youâ€™ve come.
+50,No,1.0,,No,Low,Can someone tell her to shut up already?
+51,No,1.0,,Yes,High,I swear I'll kill myself today if this pain doesn't go away
+52,Yes,0.99,,Yes,High,Kill yourself and go deeper next time
+53,No,1.0,,No,Low,Great job! Pink looks good on you
+54,No,1.0,,No,Low,I love that we have the same favorite artist!
+55,Yes,1.0,,No,Medium,EWW. What is it doing?
+56,No,0.9,,No,Medium,"That looks so ridiculous on you, don’t wear it again"
+57,No,1.0,,Yes,Medium,I feel so numb everytime
+58,Yes,1.0,,No,High,"Shut your mouth, you stupid turd"
+59,No,1.0,,Yes,High,I hope I'am no longer here by next month
+60,No,1.0,,No,Low,Can't wait to watch the game tomorrow
+51,Yes,,,,,"You're such a loser, nobody likes you."
+52,Yes,,,,,Why don’t you just go away?
+53,Yes,,,,,Nobody wants you here.
+54,Yes,,,,,"You’re so dumb, it’s embarrassing."
+55,Yes,,,,,You’re a failure at everything you do.
+56,Yes,,,,,"Go cry somewhere else, we don’t care."
+57,Yes,,,,,You’re ugly and no one will ever love you.
+58,Yes,,,,,Stop being such a pathetic joke.
+59,Yes,,,,,"You’re worthless, just disappear."
+60,Yes,,,,,Everyone thinks you’re annoying.
+61,Yes,,,,,You’ll never be good enough.
+62,Yes,,,,,You’re such a freak.
+63,Yes,,,,,No one wants to be your friend.
+64,Yes,,,,,You’re a complete embarrassment.
+65,Yes,,,,,Why do you even bother trying?
+66,No,,,,,Great job on your test!
+67,No,,,,,I hope you have a wonderful day.
+68,No,,,,,Thanks for helping me out.
+69,No,,,,,You did amazing today.
+70,No,,,,,Keep up the fantastic work!
+71,No,,,,,I’m proud of you.
+72,No,,,,,You’re doing really well.
+73,No,,,,,Let me know if you need help.
+74,No,,,,,That was a really kind thing to do.
+75,No,,,,,You’re a good friend.
+76,No,,,,,"Don’t give up, you’re almost there!"
+77,No,,,,,I believe in you.
+78,No,,,,,You have so much potential.
+79,No,,,,,"It’s okay to make mistakes, we learn from them."
+80,No,,,,,Thanks for sharing that with me.
+116,Yes,,,,,You’re so dumb
+117,Yes,,,,,You’re pathetic
+118,Yes,,,,,Nobody cares about you
+119,Yes,,,,,You’re disgusting
+120,Yes,,,,,"Go away, loser"
+121,Yes,,,,,You’re a waste of space
+122,Yes,,,,,You ruin everything
+123,Yes,,,,,You’re so annoying
+124,Yes,,,,,Why are you even here?
+125,Yes,,,,,You’re ugly inside and out
+126,Yes,,,,,You have no friends because you suck
+127,Yes,,,,,You’re the worst
+128,Yes,,,,,I hope you fail
+129,Yes,,,,,You’re such a disappointment
+130,Yes,,,,,Everyone hates you
+131,Yes,,,,,You don’t belong here
+132,Yes,,,,,You’re an embarrassment
+133,Yes,,,,,"Stop trying, you’re bad at everything"
+134,Yes,,,,,No one will miss you
+135,Yes,,,,,You’re such a failure
+136,No,,,,,You’re being dramatic
+137,No,,,,,"Calm down, it’s not that serious"
+138,No,,,,,You’re so funny
+139,No,,,,,That was a dumb mistake
+140,No,,,,,You’re acting weird
+141,No,,,,,Don’t be so sensitive
+142,No,,,,,You’re overreacting
+143,No,,,,,I don’t agree with you
+144,No,,,,,You’re a bit annoying sometimes
+145,No,,,,,That’s a stupid idea
+146,No,,,,,You should lighten up
+147,No,,,,,"It’s just a joke, don’t take it seriously"
+148,No,,,,,You’re kind of extra today
+149,No,,,,,You need to chill
+150,No,,,,,That’s a silly thing to say
+151,No,,,,,"You’re weird, but I like it"
+152,No,,,,,Don’t sweat the small stuff
+153,No,,,,,You’re acting childish
+154,No,,,,,That’s an interesting take
+155,No,,,,,"You’re joking, right?"
