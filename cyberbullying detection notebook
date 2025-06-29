@@ -1,0 +1,60 @@
+📌 1. Import Libraries
+
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report
+
+🔹 These are standard tools for text classification.
+
+
+---
+
+📌 2. Sample Dataset
+
+data = pd.DataFrame({
+    'text': [
+        "You're so stupid",
+        "I hope you have a great day!",
+        "Nobody likes you",
+        "You're amazing and strong",
+        "Go kill yourself",
+        "Stay positive and happy"
+    ],
+    'label': [1, 0, 1, 0, 1, 0]  # 1 = cyberbullying, 0 = not
+})
+
+🔹 A very basic dataset simulating cyberbullying (label 1) vs kind language (0).
+
+
+---
+
+📌 3. Convert Text to Vectors
+
+vectorizer = CountVectorizer()
+X = vectorizer.fit_transform(data['text'])
+y = data['label']
+
+🔹 Transforms text into numbers that the model can understand.
+
+
+---
+
+📌 4. Train-Test Split + Model Training
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+model = LogisticRegression()
+model.fit(X_train, y_train)
+
+🔹 Splits data and trains a logistic regression model.
+
+
+---
+
+📌 5. Evaluate the Model
+
+y_pred = model.predict(X_test)
+print(classification_report(y_test, y_pred))
+
+🔹 Shows precision, recall, and F1-score to evaluate how good your model is.
