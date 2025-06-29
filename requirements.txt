@@ -1,0 +1,7 @@
+libraries used:
+pandas
+scikit-learn
+nltk
+imbalanced-learn
+xgboost
+Smote
