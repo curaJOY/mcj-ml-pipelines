@@ -7,64 +7,87 @@ This project is for detecting cyberbullying in social media posts and testing AI
 
 ---
 
-## 🔹 Project Structure
+## 📌 Part 1: Data Preparation & Annotation
 
-| File | Description |
-|------|-------------|
-| `annotator_app.py` | Streamlit interface for annotators to label posts (bullying or not) - part 1|
-| `annotations.json` | Collected raw annotations from users - part 1 |
-| `annotations_viewable.json` | Viewable/readable version of annotations - part 1 |
-| `cleaned_posts.json` | Input dataset with preprocessed social media posts part 1 |
-| `fix_annotations.py` | Script to clean and validate annotation data part 1 |
-| `research_design.py` | Experimental framework for A/B testing the AI coach - part 2|
-| `data_quality_and_edge_cases.py` | Tools for detecting annotation issues and creating labeling guidelines part 3|
-| `intervention_design.py` | Design and evaluation metrics for AI intervention messages - part 4 |
-| `model_dev.ipynb` | Notebook for training/testing machine learning models for part 1 |
-| `README.md` | Project overview and documentation |
+### 1.1. Clean and Preprocess Raw Dataset
+
+- **File:** `model_dev.ipynb`
+- **Steps:**
+  - Pulls dataset from GitHub (`dataset.txt`)
+  - Extracts text-label pairs (bullying or not)
+  - Cleans text (lowercase, removes punctuation, whitespace)
+  - Converts labels to binary (True → 1, False → 0)
+  - Uses TF-IDF and Logistic Regression to train a simple classifier
+  - Evaluates with classification report and confusion matrix
+  - Saves cleaned posts into `cleaned_posts.json` for annotation
+
+### 1.2. Web Annotation Interface
+
+- **File:** `annotator_app.py`
+- **How to run:**
+  ```bash
+  streamlit run annotator_app.py
+  ```
+- **Features:**
+  - Loads 25 posts from `cleaned_posts.json`
+  - Allows students to label posts for bullying, self-harm, severity
+  - Confidence slider and notes field
+  - Annotations saved into `annotations.json`
+  - Cohen’s Kappa used to calculate inter-annotator agreement
+
+### 1.3. Fix and View Annotations
+
+- **File:** `fix_annotations.py`
+- **Usage:**
+  ```bash
+  python fix_annotations.py
+  ```
+- Converts raw `annotations.json` (newline JSON) into valid JSON array → `annotations_viewable.json`
 
 ---
 
-## 🧠 Project Overview
+## 📌 Part 2: Research Design & Bias Analysis
 
-### Part 1: Annotation Interface & Cleanup
-- Developed a labeling app using Streamlit.
-- Annotators label social media posts with optional comments.
-- Metadata cleaned and normalized for analysis.
-
-### Part 2: Research Design & Algorithm Bias
-- Designed an A/B/C test to evaluate impact of intervention timing.
-- Bias audit implemented across gender, race, age, and platform dimensions.
-
-### Part 3: Data Quality & Edge Cases
-- Tools to detect annotator fatigue, random labeling, and annotation disagreements.
-- Defined culturally sensitive, inclusive annotation guidelines for sarcasm, slang, and multilingual posts.
-
-### Part 4: AI Coach & Effectiveness Metrics
-- Developed compassionate, age-appropriate intervention templates.
-- Defined measurable short-term and long-term impact metrics with privacy and ethical safeguards.
+- **File:** `research_design.py`
+- **Functions:**
+  - `design_validation_study()`: Outlines an A/B/C test research plan with ethics, metrics, and sample size.
+  - `analyze_algorithm_bias(predictions, demographics)`: Analyzes fairness across race, gender, age, and platform using accuracy, precision, and recall.
 
 ---
 
-## ✅ How to Run
+## 📌 Part 3: Data Quality & Edge Cases
 
-1. **Annotation App**  
-   ```bash
-   streamlit run annotator_app.py
-   ```
+- **File:** `data_quality_and_edge_cases.py`
+- **Functions:**
+  - `detect_annotation_quality_issues()`: Detects fatigue, bias, low variation in labeling, and systematic disagreement.
+  - `handle_edge_cases()`: Provides strict guidelines on sarcasm, cultural misinterpretation, accessibility, and language variation.
 
-2. **Fix Annotations**  
-   ```bash
-   python fix_annotations.py
-   ```
+---
 
-3. **Run Bias Analysis**  
-   Check `research_design.py` for `analyze_algorithm_bias()` function.
+## 📌 Part 4: Intervention Design
 
-4. **Detect Label Quality Issues**  
-   Use `data_quality_and_edge_cases.py`.
+- **File:** `intervention_design.py`
+- **Functions:**
+  - `design_intervention_messages()`: Generates compassionate messages for bullying and self-harm cases.
+  - `measure_intervention_effectiveness()`: Tracks success with short- and long-term metrics, including tone shift and positive engagement. Addresses ethical safeguards and privacy.
 
-5. **Test Intervention Metrics**  
-   See `intervention_design.py` for structure and sample interventions.
+---
+
+## 📁 Output Files
+
+| File Name               | Description                                   |
+|------------------------|-----------------------------------------------|
+| `cleaned_posts.json`   | Cleaned posts used for annotation             |
+| `annotations.json`     | Raw user annotations (NDJSON format)          |
+| `annotations_viewable.json` | Converted annotations as JSON array     |
+| `model_dev.ipynb`      | Main notebook for training and exporting data |
+| `annotator_app.py`     | Streamlit annotation UI                       |
+| `fix_annotations.py`   | JSON formatting script                        |
+| `research_design.py`   | Study design and bias detection               |
+| `data_quality_and_edge_cases.py` | Quality checks and edge handling  |
+| `intervention_design.py` | Message and metric logic                    |
+
+---
 
 ---
 
