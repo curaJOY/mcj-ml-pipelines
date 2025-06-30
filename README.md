@@ -39,25 +39,26 @@ Full documentation of the project including dataset details, modeling strategies
 
 - **`requirements.txt`**
 
-List of required libraries. Install with:
-  ```bash
-  pip install -r requirements.txt
-  ```
+List of required libraries.
 
 ## How to Run
-1. Clone the repo:
+1. Install required libraries:
+ ```bash
+  pip install -r requirements.txt
+  ```
+2. Clone the repo:
 ```bash
 git clone https://github.com/curaJOY/mcj-ml-pipelines.git
 ```
-2. Checkout the `grace` branch:
+3. Checkout the `grace` branch:
 ```bash
 git checkout grace
 ```
-3. Change to the working directory:
+4. Change to the working directory:
 ```bash
 cd mcj-ml-pipelines
 ```
-4. Run any of the scripts depending on which model you want to try:
+5. Run any of the scripts depending on which model you want to try:
 ```bash
 python curajoy_bert.py
 python curajoy_lstm.py
@@ -69,3 +70,4 @@ python curajoy_ensemble.py
 Grace Li  
 curaJOY 2025 Impact Fellowship Tech Cohort Finalist  
 grace.li2@columbia.edu
+www.linkedin.com/in/ggracelii
