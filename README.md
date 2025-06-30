@@ -11,6 +11,7 @@ Fine-tunes a DistilBERT transformer model using HuggingFace Transformers. This m
   python curajoy_bert.py
   ```
 
+
 - **`curajoy_lstm.py`**
   
 Trains a BiLSTM model on token-based word embeddings using Keras. This provides a middle ground between traditional and transformer models.
@@ -19,6 +20,7 @@ Trains a BiLSTM model on token-based word embeddings using Keras. This provides 
   ```bash
   python curajoy_lstm.py
   ```
+
 
 - **`curajoy_tfidf.py`**
   
@@ -29,6 +31,7 @@ Builds and evaluates a neural network on TF-IDF features using dense layers and 
   python curajoy_tfidf.py
   ```
 
+
 - **`curajoy_ensemble.py`**
 
 Implements a stacked ensemble of classical ML models using TF-IDF features.
@@ -37,9 +40,12 @@ Implements a stacked ensemble of classical ML models using TF-IDF features.
   ```bash
   python curajoy_ensemble.py
   ```
+
+
 - **`report.pdf`**
 
 Full documentation of the project including dataset details, modeling strategies, evaluation results, and future work.
+
 
 - **`requirements.txt`**
 
@@ -47,6 +53,7 @@ List of required libraries. Install with:
   ```bash
   pip install -r requirements.txt
   ```
+
 
 ## Author
 Grace Li
