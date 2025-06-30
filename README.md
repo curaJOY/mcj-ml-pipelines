@@ -45,5 +45,4 @@ List of required libraries. Install with:
   ```
 
 ## Author
-Grace Li
-curaJOY 2025 Impact Fellowship Finalist
+Grace Li, curaJOY 2025 Impact Fellowship Tech Cohort Finalist
