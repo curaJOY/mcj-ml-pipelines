@@ -1,0 +1,42 @@
+[
+  {
+    "annotator": "4",
+    "id": 1,
+    "text": "Hope you have fun at the dance! \ud83d\ude0a (JK nobody will dance with you)",
+    "bullying": "Yes",
+    "self_harm": "No",
+    "severity": "Low",
+    "confidence": 100,
+    "notes": ""
+  },
+  {
+    "annotator": "4",
+    "id": 2,
+    "text": "Bro you're literally killing me with these memes \ud83d\ude02\ud83d\udc80",
+    "bullying": "No",
+    "self_harm": "No",
+    "severity": "Low",
+    "confidence": 70,
+    "notes": ""
+  },
+  {
+    "annotator": "5",
+    "id": 1,
+    "text": "Hope you have fun at the dance! \ud83d\ude0a (JK nobody will dance with you)",
+    "bullying": "No",
+    "self_harm": "Yes",
+    "severity": "High",
+    "confidence": 72,
+    "notes": ""
+  },
+  {
+    "annotator": "5",
+    "id": 2,
+    "text": "Bro you're literally killing me with these memes \ud83d\ude02\ud83d\udc80",
+    "bullying": "Yes",
+    "self_harm": "Yes",
+    "severity": "High",
+    "confidence": 72,
+    "notes": ""
+  }
+]
