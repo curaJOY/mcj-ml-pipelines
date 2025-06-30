@@ -11,15 +11,15 @@ This project is for detecting cyberbullying in social media posts and testing AI
 
 | File | Description |
 |------|-------------|
-| `annotator_app.py` | Streamlit interface for annotators to label posts (bullying or not) |
-| `annotations.json` | Collected raw annotations from users |
-| `annotations_viewable.json` | Viewable/readable version of annotations |
-| `cleaned_posts.json` | Input dataset with preprocessed social media posts |
-| `fix_annotations.py` | Script to clean and validate annotation data |
-| `research_design.py` | Experimental framework for A/B testing the AI coach |
-| `data_quality_and_edge_cases.py` | Tools for detecting annotation issues and creating labeling guidelines |
-| `intervention_design.py` | Design and evaluation metrics for AI intervention messages |
-| `model_dev.ipynb` | Notebook for training/testing machine learning models |
+| `annotator_app.py` | Streamlit interface for annotators to label posts (bullying or not) - part 1|
+| `annotations.json` | Collected raw annotations from users - part 1 |
+| `annotations_viewable.json` | Viewable/readable version of annotations - part 1 |
+| `cleaned_posts.json` | Input dataset with preprocessed social media posts part 1 |
+| `fix_annotations.py` | Script to clean and validate annotation data part 1 |
+| `research_design.py` | Experimental framework for A/B testing the AI coach - part 2|
+| `data_quality_and_edge_cases.py` | Tools for detecting annotation issues and creating labeling guidelines part 3|
+| `intervention_design.py` | Design and evaluation metrics for AI intervention messages - part 4 |
+| `model_dev.ipynb` | Notebook for training/testing machine learning models for part 1 |
 | `README.md` | Project overview and documentation |
 
 ---
