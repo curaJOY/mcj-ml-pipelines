@@ -1,0 +1,49 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Model files (large binary files)
+*.pth
+*.pkl
+*.model
+
+# Data files (if sensitive)
+# dataset.txt  # Uncomment if dataset should not be shared
+
+# Logs
+*.log
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Generated visualizations (optional)
+*.png
+*.jpg
+*.jpeg
+
+# Temporary files
+*.tmp
+*.temp 
