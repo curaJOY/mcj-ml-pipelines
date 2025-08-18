@@ -1,0 +1,27 @@
+{
+  "ServiceName": "prodigy-service",
+  "SourceConfiguration": {
+    "ImageRepository": {
+      "ImageIdentifier": "009340619926.dkr.ecr.us-east-2.amazonaws.com/prodigy-service:dev",
+      "ImageRepositoryType": "OTHER",
+      "ImageConfiguration": {
+        "Port": "8080",
+        "RuntimeEnvironmentVariables": {
+          "PRODIGY_KEY": "B35F-68B5-C0AA-45EC",
+          "RECIPE": "spans.manual",
+          "DATASET": "cyberbullying_dataset",
+          "MODEL": "en_core_web_sm",
+          "DATA_FILE": "/app/data/twitter_parsed_clean.txt",
+          "LABELS": "CYBERBULLYING,NOT_CYBERBULLYING,BYSTANDER,VICTIM,BULLY,VISUAL,VERBAL,EXCLUSION,OTHER"
+          }
+      }
+    },
+    "AutoDeploymentsEnabled": false
+  },
+  "InstanceConfiguration": { "Cpu": "1 vCPU", "Memory": "2 GB" },
+  "HealthCheckConfiguration": { "Protocol": "HTTP", "Path": "/", "Interval": 10, "Timeout": 5, "HealthyThreshold": 1, "UnhealthyThreshold": 5 },
+  "NetworkConfiguration": {
+    "EgressConfiguration": { "EgressType": "DEFAULT" },
+    "IngressConfiguration": { "IsPubliclyAccessible": true }
+  }
+}
