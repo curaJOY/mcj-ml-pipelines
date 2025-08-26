@@ -1,42 +1,54 @@
-FROM python:3.10-slim
+FROM python:3.10-bullseye
 
-# tini + minimal build deps (gcc only if you truly need it)
+# System deps for native builds + tini
 RUN apt-get update && apt-get install -y --no-install-recommends \
-      tini gcc \
-    && rm -rf /var/lib/apt/lists/*
+    build-essential g++ make tini curl ca-certificates \
+ && rm -rf /var/lib/apt/lists/*
 
-# If this is an ARM wheel, build for ARM; otherwise swap in an amd64 wheel
-COPY whl/prodigy-1.11.7-cp310-cp310-linux_aarch64.whl /tmp/prodigy-1.11.7-cp310-cp310-linux_aarch64.whl
+# Prodigy wheel
+COPY whl/prodigy-1.11.7-cp310-cp310-linux_x86_64.whl /tmp/prodigy-1.11.7-cp310-cp310-linux_x86_64.whl
 
-# Keep versions compatible with spaCy 3.4.x and Prodigy 1.11.x
-RUN python -m pip install --no-cache-dir "pip==23.2.1" "setuptools<70" "wheel<0.43" \
- && pip install --no-cache-dir "numpy<1.24" \
- && pip install --no-cache-dir /tmp/prodigy-1.11.7-cp310-cp310-linux_aarch64.whl \
- && pip install --no-cache-dir "spacy==3.4.4" \
- && python -m spacy download en_core_web_sm
+ENV PIP_NO_CACHE_DIR=1
+RUN python -m pip install --upgrade "pip==23.2.1" "setuptools<70" "wheel<0.43"
+RUN pip install "numpy==1.23.5"
 
-# Non-root user + app dir
+# Install Prodigy and show /tmp for sanity
+RUN ls -l /tmp && \
+    pip install -v /tmp/prodigy-1.11.7-cp310-cp310-linux_x86_64.whl
+
+# spaCy + model (Step 4 == spans.manual)
+RUN pip install "spacy==3.4.4"
+COPY whl/en_core_web_sm-3.4.0-py3-none-any.whl /tmp/
+# sanity check size so we don't build with a truncated file
+RUN python - <<'PY'
+import os
+p="/tmp/en_core_web_sm-3.4.0-py3-none-any.whl"
+s=os.path.getsize(p)
+print("Wheel size:", s, "bytes"); assert s>5_000_000, "Model wheel looks truncated"
+PY
+RUN pip install /tmp/en_core_web_sm-3.4.0-py3-none-any.whl && \
+    python - <<'PY'
+import spacy
+print("spaCy:", spacy.__version__)
+nlp = spacy.load("en_core_web_sm")
+print("model OK:", nlp.meta["name"], nlp.meta["version"])
+PY
+
+# Install your recipes as a package so Prodigy can discover the entry point
+COPY recipes_pkg/ /app/recipes_pkg/
+RUN pip install /app/recipes_pkg
+
+# Non-root runtime user + app dirs
 RUN useradd -m prodigy && mkdir -p /app/data && chown -R prodigy:prodigy /app
 USER prodigy
 WORKDIR /app
 
-# Bring in your data (optional; you can also mount at runtime)
+# Data only (recipes are already installed as a package)
 COPY --chown=prodigy:prodigy data/ /app/data/
 
-# App Runner/ECS expect a stable port and 0.0.0.0 binding
 ENV PRODIGY_HOST=0.0.0.0
 ENV PRODIGY_PORT=8080
 EXPOSE 8080
 
-# Make the run-time configurable without rebuilds
-ENV RECIPE="spans.manual" \
-    DATASET="cyberbullying_dataset" \
-    MODEL="en_core_web_sm" \
-    DATA_FILE="/app/data/twitter_parsed_clean.txt" \
-    LABELS="CYBERBULLYING,NOT_CYBERBULLYING,BYSTANDER,VICTIM,BULLY,VISUAL,VERBAL,EXCLUSION,OTHER"
-
-# Copy a tiny entrypoint that execs Prodigy
-COPY --chown=prodigy:prodigy entrypoint.sh /app/entrypoint.sh
-RUN chmod +x /app/entrypoint.sh
-
-ENTRYPOINT ["/usr/bin/tini","--","/app/entrypoint.sh"]
+# No -F needed; recipe is registered
+CMD ["prodigy","bullying-workflow","cyberbullying_dataset","/app/data/twitter_parsed_clean.txt","-l","txt"]

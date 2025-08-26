@@ -1,0 +1,120 @@
+{
+    "taskDefinitionArn": "arn:aws:ecs:us-west-1:009340619926:task-definition/ProdigyServiceStackProdigyTaskE1FA302B:1",
+    "containerDefinitions": [
+        {
+            "name": "ProdigyContainer",
+            "image": "009340619926.dkr.ecr.us-west-1.amazonaws.com/prodigy-service:dev",
+            "cpu": 0,
+            "links": [],
+            "portMappings": [
+                {
+                    "containerPort": 8080,
+                    "hostPort": 8080,
+                    "protocol": "tcp"
+                }
+            ],
+            "essential": true,
+            "entryPoint": [],
+            "command": [],
+            "environment": [
+                {
+                    "name": "PRODIGY_PORT",
+                    "value": "8080"
+                },
+                {
+                    "name": "PRODIGY_HOST",
+                    "value": "0.0.0.0"
+                },
+                {
+                    "name": "PRODIGY_ALLOWED_ORIGINS",
+                    "value": "https://dev.curajoy.org"
+                }
+            ],
+            "environmentFiles": [],
+            "mountPoints": [],
+            "volumesFrom": [],
+            "secrets": [
+                {
+                    "name": "PRODIGY_KEY",
+                    "valueFrom": "arn:aws:secretsmanager:us-west-1:009340619926:secret:prodigy/licenseKey"
+                },
+                {
+                    "name": "PRODIGY_AUTH_SECRET",
+                    "valueFrom": "arn:aws:secretsmanager:us-west-1:009340619926:secret:prodigy/authSecret"
+                }
+            ],
+            "dnsServers": [],
+            "dnsSearchDomains": [],
+            "extraHosts": [],
+            "dockerSecurityOptions": [],
+            "dockerLabels": {},
+            "ulimits": [],
+            "logConfiguration": {
+                "logDriver": "awslogs",
+                "options": {
+                    "awslogs-group": "ProdigyServiceStack-ProdigyTaskProdigyContainerLogGroupF705FFA5-IVBg4RX1hjjQ",
+                    "awslogs-region": "us-west-1",
+                    "awslogs-stream-prefix": "prodigy"
+                },
+                "secretOptions": []
+            },
+            "systemControls": [],
+            "credentialSpecs": []
+        }
+    ],
+    "family": "ProdigyServiceStackProdigyTaskE1FA302B",
+    "taskRoleArn": "arn:aws:iam::009340619926:role/ProdigyServiceStack-ProdigyTaskTaskRoleF6556D4B-Ei6qqjk6DeoH",
+    "executionRoleArn": "arn:aws:iam::009340619926:role/ProdigyServiceStack-ProdigyTaskExecutionRole5C4FE0E-jawJbfvamnKr",
+    "networkMode": "awsvpc",
+    "revision": 1,
+    "volumes": [],
+    "status": "ACTIVE",
+    "requiresAttributes": [
+        {
+            "name": "com.amazonaws.ecs.capability.logging-driver.awslogs"
+        },
+        {
+            "name": "ecs.capability.execution-role-awslogs"
+        },
+        {
+            "name": "com.amazonaws.ecs.capability.ecr-auth"
+        },
+        {
+            "name": "com.amazonaws.ecs.capability.docker-remote-api.1.19"
+        },
+        {
+            "name": "ecs.capability.secrets.asm.environment-variables"
+        },
+        {
+            "name": "com.amazonaws.ecs.capability.docker-remote-api.1.17"
+        },
+        {
+            "name": "com.amazonaws.ecs.capability.task-iam-role"
+        },
+        {
+            "name": "ecs.capability.execution-role-ecr-pull"
+        },
+        {
+            "name": "com.amazonaws.ecs.capability.docker-remote-api.1.18"
+        },
+        {
+            "name": "ecs.capability.task-eni"
+        }
+    ],
+    "placementConstraints": [],
+    "compatibilities": [
+        "EC2",
+        "FARGATE"
+    ],
+    "runtimePlatform": {
+        "cpuArchitecture": "ARM64",
+        "operatingSystemFamily": "LINUX"
+    },
+    "requiresCompatibilities": [
+        "FARGATE"
+    ],
+    "cpu": "1024",
+    "memory": "2048",
+    "registeredAt": "2025-08-12T03:49:30.358000-05:00",
+    "registeredBy": "arn:aws:sts::009340619926:assumed-role/cdk-hnb659fds-cfn-exec-role-009340619926-us-west-1/AWSCloudFormation"
+}

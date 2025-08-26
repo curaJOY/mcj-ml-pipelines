@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cj-prodigy-recipes"
+version = "0.0.30"
+description = "curaJOY Prodigy recipes"
+requires-python = ">=3.10"
+
+[project.entry-points."prodigy_recipes"]
+bullying-workflow = "bullying_workflow:bullying_workflow"
