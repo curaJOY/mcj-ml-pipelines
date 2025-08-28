@@ -113,7 +113,7 @@ Implements guided 4-step annotation flow.
 -	Provides a compact HTML “wizard” for steps 1–3 (binary label, role, severity), then reveals spans_manual in step 4 for span labeling.
 -	Validates answers server-side so incomplete submissions are rejected with clear messages.
 
-### ersioning tip
+### Versioning tip
 
 Any time you change UI logic, labels, validation, or parameters:
 - Bump the printed version string at the top of bullying_workflow.py (e.g., v0.0.30 → v0.0.31).
