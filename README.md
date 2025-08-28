@@ -3,6 +3,7 @@
 Run the Prodigy labeling UI locally with custom recipe and dataset.
 
 ## Repo layout
+
 ├─ data/                     # Cleaned text dataset (tweets) used as input
 │  └─ twitter_parsed_clean.txt
 ├─ recipes_pkg/              # Your Python package with Prodigy recipes
