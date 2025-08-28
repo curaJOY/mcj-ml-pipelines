@@ -4,27 +4,19 @@ Run the Prodigy labeling UI locally with custom recipe and dataset.
 
 ## Repo layout
 
+```bash
 ├─ data/                     # Cleaned text dataset (tweets) used as input
-
 │  └─ twitter_parsed_clean.txt
-
 ├─ recipes_pkg/              # Your Python package with Prodigy recipes
-
 │  ├─ bullying_workflow.py
-
 │  └─ pyproject.toml
-
 ├─ whl/                      # Wheel files to install inside the image
-
 │  ├─ prodigy-.whl          # Prodigy wheel
-
 │  └─ en_core_web_sm-.whl   # spaCy model wheel
-
 ├─ Dockerfile
-
 ├─ docker-compose.yml
-
 └─ README.md
+```
 
 ## What each file/folder does
 
