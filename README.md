@@ -43,8 +43,11 @@ which starts your `bullying-workflow` recipe on the given dataset and file.
 ## Configuration
 
 Create a `.env` file in the repo root:
+
+```bash
 PRODIGY_KEY=(Prodigy key)
-PRODIGY_AUTH_SECRET=$(openssl rand -hex 32)
+PRODIGY_AUTH_SECRET=$(openssl rand -hex 32) # or any other long random string
+```
 
 ## Build and run
 
