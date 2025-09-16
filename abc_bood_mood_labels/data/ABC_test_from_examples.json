@@ -1,0 +1,52 @@
+[
+  {
+    "incident": "I started sweating during the exam.",
+    "expected_body": "[{\"sensation\": \"Sweaty\", \"intensity\": \"medium\"}]",
+    "expected_mood": "not present"
+  },
+  {
+    "incident": "My arms felt cold when I spoke.",
+    "expected_body": "[{\"sensation\": \"Cold\", \"intensity\": \"medium\"}]",
+    "expected_mood": "not present"
+  },
+  {
+    "incident": "My eyes felt tingly.",
+    "expected_body": "[{\"sensation\": \"Tingly\", \"intensity\": \"medium\", \"body_part\": \"eyes\"}]",
+    "expected_mood": "not present"
+  },
+  {
+    "incident": "My legs felt numb when I stood up.",
+    "expected_body": "[{\"sensation\": \"Numb\", \"intensity\": \"medium\"}]",
+    "expected_mood": "not present"
+  },
+  {
+    "incident": "My hands went numb.",
+    "expected_body": "[{\"sensation\": \"Numb\", \"intensity\": \"medium\"}]",
+    "expected_mood": "not present"
+  },
+  {
+    "incident": "It was a stressful day.",
+    "expected_body": "not present",
+    "expected_mood": "[{\"mood\": \"Stressed\", \"intensity\": \"medium\"}]"
+  },
+  {
+    "incident": "We were deciding on what to watch for movie night, and misty called dawn an sad bitch. Then they fought over the TV remote.",
+    "expected_body": "not present",
+    "expected_mood": "not present"
+  },
+  {
+    "incident": "They called me an angry fool.",
+    "expected_body": "not present",
+    "expected_mood": "not present"
+  },
+  {
+    "incident": "Whenever I’m driving or sitting still for a long time, feeling lonely and bored, my head gets hot, and I end up biting my nails nonstop while zoning out. When I catch myself, I stop—but later, I realize my fingers are back in my mouth again.No one got hurt.",
+    "expected_body": "[{\"sensation\": \"Hot\", \"intensity\": \"medium\", \"body_part\": \"head\"}]",
+    "expected_mood": "[{\"mood\": \"Bored\", \"intensity\": \"medium\"}, {\"mood\": \"Lonely\", \"intensity\": \"medium\"}]"
+  },
+  {
+    "incident": "I started feeling breathless while working. I started feeling cool while working. I was called anxious.",
+    "expected_body": "[{\"sensation\": \"Breathless\", \"intensity\": \"medium\"}, {\"sensation\": \"Cool\", \"intensity\": \"medium\"}]",
+    "expected_mood": "not present"
+  }
+]
